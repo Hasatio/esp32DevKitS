@@ -78,7 +78,10 @@
         "clearance|164630000|110980000|4334fb49-ce11-418e-84bf-b85a188aef81|29912b69-66b2-4170-8946-c985af4bf5bd",
         "clearance|94953385|82535754|af3e9bbf-a833-4650-b587-a2c6ebfd8415|20dd8405-da34-474d-8509-40bae5dacccf",
         "clearance|95086735|83246954|3156d3fe-86bc-4aaa-b395-e39666b5fade|20dd8405-da34-474d-8509-40bae5dacccf",
+<<<<<<< HEAD:ESP32-DEVKIT-S/ESP32-DEVKIT-S-cp2102.kicad_pro
         "clearance|95220085|82535754|6f833cca-bee3-47d7-98dd-0dccd194a152|20dd8405-da34-474d-8509-40bae5dacccf",
+=======
+>>>>>>> 68af404355b3b751be5d1c865b114c6b0174d70a:ESP32-DEVKIT-S/ESP32-DEVKIT-S.kicad_pro
         "copper_edge_clearance|168200000|108010000|cbdab12a-3e36-4122-880a-3ccca300f2af|a12d5b0c-7dfd-4891-b8e6-85e4524e7c08",
         "copper_edge_clearance|168200000|108012314|cbdab12a-3e36-4122-880a-3ccca300f2af|ec995c38-4efb-4163-80f6-cd0278d39a78",
         "copper_edge_clearance|168200000|109967686|51ec8bfc-136a-4ed5-aded-598be65fbb2d|af4ba42c-f3c6-4850-9f03-6936299f01cf",
@@ -100,6 +103,7 @@
         "invalid_outline|173270000|71390000|c556140d-e27f-48aa-a260-f0784b87584e|6403458b-9a03-4142-aa16-bcf196a33996",
         "items_not_allowed|115516735|76128654|6c3c6921-34c2-4eea-9354-1e971f5ba404|00000000-0000-0000-0000-000000000000",
         "items_not_allowed|172930000|103861700|6c3c6921-34c2-4eea-9354-1e971f5ba404|00000000-0000-0000-0000-000000000000",
+<<<<<<< HEAD:ESP32-DEVKIT-S/ESP32-DEVKIT-S-cp2102.kicad_pro
         "solder_mask_bridge|100046032|79252046|be9eac3c-1327-4830-ba18-1c2e2dbc6871|c82084e1-51cc-484c-a052-e2ab8df57379",
         "solder_mask_bridge|100246032|79252046|c82084e1-51cc-484c-a052-e2ab8df57379|be9eac3c-1327-4830-ba18-1c2e2dbc6871",
         "solder_mask_bridge|100546032|79252046|c82084e1-51cc-484c-a052-e2ab8df57379|0968a2ba-dd35-4b86-b754-c348deb89989",
@@ -115,6 +119,15 @@
         "solder_mask_bridge|103896032|79252046|29774760-8380-4e10-bb3e-3598b68d5a42|34e3651d-157a-4a02-a294-ffe0d1aae475",
         "solder_mask_bridge|104071032|79252046|34e3651d-157a-4a02-a294-ffe0d1aae475|29774760-8380-4e10-bb3e-3598b68d5a42",
         "solder_mask_bridge|107026235|82472254|d77929eb-374e-46c3-9aa6-bba926a13890|4334fb49-ce11-418e-84bf-b85a188aef81",
+=======
+        "solder_mask_bridge|100246032|79252046|c82084e1-51cc-484c-a052-e2ab8df57379|be9eac3c-1327-4830-ba18-1c2e2dbc6871",
+        "solder_mask_bridge|100546032|79252046|c82084e1-51cc-484c-a052-e2ab8df57379|0968a2ba-dd35-4b86-b754-c348deb89989",
+        "solder_mask_bridge|101246032|79252046|6a39a35e-45e4-4600-b924-e038b1bb190c|0968a2ba-dd35-4b86-b754-c348deb89989",
+        "solder_mask_bridge|101746032|79252046|61c085f6-fbd0-4a99-ae67-0a9ef8aadf58|6a39a35e-45e4-4600-b924-e038b1bb190c",
+        "solder_mask_bridge|102046032|79252046|61c085f6-fbd0-4a99-ae67-0a9ef8aadf58|e48f9b5b-bfda-4e32-a3e5-2f321cc42075",
+        "solder_mask_bridge|102746032|79252046|9d05217a-7aa1-4197-becb-91945e02c376|e48f9b5b-bfda-4e32-a3e5-2f321cc42075",
+        "solder_mask_bridge|103896032|79252046|29774760-8380-4e10-bb3e-3598b68d5a42|34e3651d-157a-4a02-a294-ffe0d1aae475",
+>>>>>>> 68af404355b3b751be5d1c865b114c6b0174d70a:ESP32-DEVKIT-S/ESP32-DEVKIT-S.kicad_pro
         "solder_mask_bridge|107026235|82980254|d77929eb-374e-46c3-9aa6-bba926a13890|10e70473-304d-456d-bf10-68cb6f37abd7",
         "solder_mask_bridge|107083385|82535754|29912b69-66b2-4170-8946-c985af4bf5bd|10e70473-304d-456d-bf10-68cb6f37abd7",
         "solder_mask_bridge|107216735|83246954|29912b69-66b2-4170-8946-c985af4bf5bd|4334fb49-ce11-418e-84bf-b85a188aef81",
@@ -155,6 +168,7 @@
         "solder_mask_bridge|164496650|110268800|29912b69-66b2-4170-8946-c985af4bf5bd|10e70473-304d-456d-bf10-68cb6f37abd7",
         "solder_mask_bridge|164496650|110268800|d77929eb-374e-46c3-9aa6-bba926a13890|55de4e05-3adc-469d-9a21-b8e5446272d4",
         "solder_mask_bridge|164630000|110980000|29912b69-66b2-4170-8946-c985af4bf5bd|4334fb49-ce11-418e-84bf-b85a188aef81",
+<<<<<<< HEAD:ESP32-DEVKIT-S/ESP32-DEVKIT-S-cp2102.kicad_pro
         "solder_mask_bridge|94896235|82472254|e7452447-30e2-458b-883f-fe847c52d926|3156d3fe-86bc-4aaa-b395-e39666b5fade",
         "solder_mask_bridge|94896235|82980254|e7452447-30e2-458b-883f-fe847c52d926|af3e9bbf-a833-4650-b587-a2c6ebfd8415",
         "solder_mask_bridge|94953385|82535754|20dd8405-da34-474d-8509-40bae5dacccf|af3e9bbf-a833-4650-b587-a2c6ebfd8415",
@@ -163,6 +177,13 @@
         "solder_mask_bridge|98396032|79252046|569c8d97-f513-4f53-9bb8-a43a9bfbe3c3|29e8122e-fcfc-41cb-a977-6e0323399d59",
         "solder_mask_bridge|99546032|79252046|d5a220e5-0e1a-4391-89bb-f942ac871a6f|be9eac3c-1327-4830-ba18-1c2e2dbc6871",
         "solder_mask_bridge|99746032|79252046|be9eac3c-1327-4830-ba18-1c2e2dbc6871|d5a220e5-0e1a-4391-89bb-f942ac871a6f"
+=======
+        "solder_mask_bridge|94896235|82980254|e7452447-30e2-458b-883f-fe847c52d926|af3e9bbf-a833-4650-b587-a2c6ebfd8415",
+        "solder_mask_bridge|94953385|82535754|20dd8405-da34-474d-8509-40bae5dacccf|af3e9bbf-a833-4650-b587-a2c6ebfd8415",
+        "solder_mask_bridge|95086735|83246954|20dd8405-da34-474d-8509-40bae5dacccf|3156d3fe-86bc-4aaa-b395-e39666b5fade",
+        "solder_mask_bridge|98396032|79252046|569c8d97-f513-4f53-9bb8-a43a9bfbe3c3|29e8122e-fcfc-41cb-a977-6e0323399d59",
+        "solder_mask_bridge|99546032|79252046|d5a220e5-0e1a-4391-89bb-f942ac871a6f|be9eac3c-1327-4830-ba18-1c2e2dbc6871"
+>>>>>>> 68af404355b3b751be5d1c865b114c6b0174d70a:ESP32-DEVKIT-S/ESP32-DEVKIT-S.kicad_pro
       ],
       "meta": {
         "filename": "board_design_settings.json",
