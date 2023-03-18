@@ -1,6 +1,7 @@
 # ESP32-DEVKIT-S
 
 The circuit taken as an example while designing the board [Thing Plus C - ESP32 WROOM](https://www.sparkfun.com/products/retired/18018)
+
 This pcb scaled down using the components in the example schematic
 
 ## Added:
@@ -22,5 +23,3 @@ This pcb scaled down using the components in the example schematic
 
 - RGB led
 - SD card
-
-
