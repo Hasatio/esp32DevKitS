@@ -6,6 +6,7 @@ This pcb scaled down using the components in the example schematic
 #Added:
 
 - ADXL345 motion sensor IC
+- 2x 1x20 FPC connector for ESP pins
 - In breakable PCB;
   - 4x ADS1115
   - 1x20 FPC connector
