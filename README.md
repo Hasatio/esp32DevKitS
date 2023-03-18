@@ -1,9 +1,9 @@
 # ESP32-DEVKIT-S
 
-The circuit taken as an example while designing the board "Thing Plus C - ESP32 WROOM" (https://www.sparkfun.com/products/retired/18018)
+The circuit taken as an example while designing the board [Thing Plus C - ESP32 WROOM](https://www.sparkfun.com/products/retired/18018)
 This pcb scaled down using the components in the example schematic
 
-#Added:
+## Added:
 
 - ADXL345 motion sensor IC
 - 2x 1x20 FPC connector for ESP pins
@@ -12,12 +12,15 @@ This pcb scaled down using the components in the example schematic
   - 1x20 FPC connector
   - 1x QWIIC connector
 
-#Changed:
+## Changed:
 
+- ESP32-WROOM-32D model
 - Battery socket breakable PCB
 - My logo
 
-#Removed:
+## Removed:
 
 - RGB led
 - SD card
+
+
