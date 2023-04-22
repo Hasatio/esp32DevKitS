@@ -19842,7 +19842,7 @@
     (effects (font (size 0.889 0.889)) (justify left bottom))
     (uuid 35eafa83-ae6b-447c-b211-ff2ca4e2899c)
   )
-  (label "GPIO_3/RX" (at 323.088 44.45 0) (fields_autoplaced)
+  (label "GPIO_1{slash}TX" (at 323.088 44.45 0) (fields_autoplaced)
     (effects (font (size 0.889 0.889)) (justify left bottom))
     (uuid 37d2636b-f12f-43b6-9fb9-2a558877ac39)
   )
@@ -19946,7 +19946,7 @@
     (effects (font (size 0.889 0.889)) (justify right bottom))
     (uuid 5f5d9f76-5452-452f-91d0-c7575ebce6df)
   )
-  (label "GPIO_1/TX" (at 323.088 41.91 0) (fields_autoplaced)
+  (label "GPIO_3{slash}RX" (at 323.088 41.91 0) (fields_autoplaced)
     (effects (font (size 0.889 0.889)) (justify left bottom))
     (uuid 5fa13be1-9502-4db7-af32-068de92ac766)
   )
@@ -20313,7 +20313,7 @@
     (pin "1" (uuid 98979e3e-d7e8-44a5-b146-3028d8075191))
     (pin "2" (uuid 58a1c9d1-e65e-4990-9431-87870311a4a8))
     (instances
-      (project "ESP32-DEVKIT-S-wert"
+      (project "ESP32-DEVKIT-S-cp2102"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "R29") (unit 1)
         )
@@ -20339,7 +20339,7 @@
     (pin "A" (uuid c8ac4cfb-b815-484a-b7f7-6e6c90942d36))
     (pin "C" (uuid 1a4786fc-108e-4703-9247-90dbed45b8a6))
     (instances
-      (project "ESP32-DEVKIT-S-wert"
+      (project "ESP32-DEVKIT-S-cp2102"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "D1") (unit 1)
         )
@@ -20364,7 +20364,7 @@
     )
     (pin "1" (uuid cf4f609f-27c8-45b8-a0e2-00cbe354af75))
     (instances
-      (project "ESP32-DEVKIT-S-wert"
+      (project "ESP32-DEVKIT-S-cp2102"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#GND0107") (unit 1)
         )
@@ -20390,7 +20390,7 @@
     (pin "1" (uuid 4d83a986-07a0-4611-be34-97c2271ceb6d))
     (pin "2" (uuid acff5b27-98b2-4f18-8596-4da48671c25f))
     (instances
-      (project "ESP32-DEVKIT-S-wert"
+      (project "ESP32-DEVKIT-S-cp2102"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "R20") (unit 1)
         )
@@ -20415,7 +20415,7 @@
     )
     (pin "1" (uuid 400fb809-5f2b-428d-86b8-58bdfac7d2f2))
     (instances
-      (project "ESP32-DEVKIT-S-wert"
+      (project "ESP32-DEVKIT-S-cp2102"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#GND0104") (unit 1)
         )
@@ -20447,7 +20447,7 @@
     (pin "4" (uuid 15548136-28d5-4918-bb03-14a053831177))
     (pin "5" (uuid 86db2b23-9673-44b1-9065-ef5e671f6e5c))
     (instances
-      (project "ESP32-DEVKIT-S-wert"
+      (project "ESP32-DEVKIT-S-cp2102"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "U7") (unit 1)
         )
@@ -20472,7 +20472,7 @@
     )
     (pin "1" (uuid 69c3ff1e-6055-4671-b161-fffcf22f3d54))
     (instances
-      (project "ESP32-DEVKIT-S-wert"
+      (project "ESP32-DEVKIT-S-cp2102"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#GND07") (unit 1)
         )
@@ -20497,7 +20497,7 @@
     )
     (pin "1" (uuid afd40092-f96f-48ff-990c-cde9c029e893))
     (instances
-      (project "ESP32-DEVKIT-S-wert"
+      (project "ESP32-DEVKIT-S-cp2102"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#SUPPLY0102") (unit 1)
         )
@@ -20522,7 +20522,7 @@
     )
     (pin "1" (uuid dc6e28eb-5f8d-4e53-a698-6f61c6950b82))
     (instances
-      (project "ESP32-DEVKIT-S-wert"
+      (project "ESP32-DEVKIT-S-cp2102"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#SUPPLY025") (unit 1)
         )
@@ -20547,7 +20547,7 @@
     )
     (pin "1" (uuid 1a20c989-6abd-4af0-b8c3-fed31a5edc66))
     (instances
-      (project "ESP32-DEVKIT-S-wert"
+      (project "ESP32-DEVKIT-S-cp2102"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#GND013") (unit 1)
         )
@@ -20572,7 +20572,7 @@
     )
     (pin "1" (uuid 5f9c0bea-1807-418e-b8b4-1695dea69357))
     (instances
-      (project "ESP32-DEVKIT-S-wert"
+      (project "ESP32-DEVKIT-S-cp2102"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#SUPPLY020") (unit 1)
         )
@@ -20597,7 +20597,7 @@
     )
     (pin "1" (uuid 29fa0f07-a74a-404a-9db7-a607609138d3))
     (instances
-      (project "ESP32-DEVKIT-S-wert"
+      (project "ESP32-DEVKIT-S-cp2102"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#SUPPLY026") (unit 1)
         )
@@ -20622,7 +20622,7 @@
     )
     (pin "1" (uuid beb328c0-1892-4ddf-92d7-df4dc5d7fe75))
     (instances
-      (project "ESP32-DEVKIT-S-wert"
+      (project "ESP32-DEVKIT-S-cp2102"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#GND044") (unit 1)
         )
@@ -20647,7 +20647,7 @@
     )
     (pin "1" (uuid fce20423-80e4-42f7-ad54-972f91e46bc5))
     (instances
-      (project "ESP32-DEVKIT-S-wert"
+      (project "ESP32-DEVKIT-S-cp2102"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#GND033") (unit 1)
         )
@@ -20685,7 +20685,7 @@
     (pin "VBUS1" (uuid 45a92381-2e48-4f6c-8968-c0ff7d7a849a))
     (pin "VBUS2" (uuid d23cb4b3-8d9c-443a-8a2b-7a515ee57029))
     (instances
-      (project "ESP32-DEVKIT-S-wert"
+      (project "ESP32-DEVKIT-S-cp2102"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "J2") (unit 1)
         )
@@ -20711,7 +20711,7 @@
     (pin "1" (uuid 6ced4ccb-7b52-4324-8bf7-74539b74407f))
     (pin "2" (uuid f4161f4b-cf06-424d-83d1-c3f6477e8059))
     (instances
-      (project "ESP32-DEVKIT-S-wert"
+      (project "ESP32-DEVKIT-S-cp2102"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "R10") (unit 1)
         )
@@ -20737,7 +20737,7 @@
     (pin "1" (uuid 12de9eb5-592f-4233-b252-850bc86e63b1))
     (pin "2" (uuid c3f0771d-b47c-46d2-877d-9df7be0b23dd))
     (instances
-      (project "ESP32-DEVKIT-S-wert"
+      (project "ESP32-DEVKIT-S-cp2102"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "R32") (unit 1)
         )
@@ -20763,7 +20763,7 @@
     (pin "1" (uuid ff4370ea-03e3-47f5-ba7f-f9e519d8e4ae))
     (pin "2" (uuid 58505935-3ada-4e7d-868a-c49504fc22fc))
     (instances
-      (project "ESP32-DEVKIT-S-wert"
+      (project "ESP32-DEVKIT-S-cp2102"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "C18") (unit 1)
         )
@@ -20789,7 +20789,7 @@
     (pin "A" (uuid f38bfaf2-ba1a-47b6-ad20-c4ad3e230b2a))
     (pin "C" (uuid 590a9939-8436-4ad0-92ff-43deb2d20ce3))
     (instances
-      (project "ESP32-DEVKIT-S-wert"
+      (project "ESP32-DEVKIT-S-cp2102"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "D5") (unit 1)
         )
@@ -20815,7 +20815,7 @@
     (pin "1" (uuid 422861ee-e159-44dd-932f-791ba5d141bf))
     (pin "2" (uuid 9d56b30b-1f0a-4b1a-b6bf-c49033275506))
     (instances
-      (project "ESP32-DEVKIT-S-wert"
+      (project "ESP32-DEVKIT-S-cp2102"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "R1") (unit 1)
         )
@@ -20840,7 +20840,7 @@
     )
     (pin "1" (uuid cc40f7d2-cf4b-4be9-901e-cecb1b8c9446))
     (instances
-      (project "ESP32-DEVKIT-S-wert"
+      (project "ESP32-DEVKIT-S-cp2102"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#SUPPLY0110") (unit 1)
         )
@@ -20865,7 +20865,7 @@
     )
     (pin "1" (uuid c93101e2-4169-4b8e-abe9-cf9270180e2d))
     (instances
-      (project "ESP32-DEVKIT-S-wert"
+      (project "ESP32-DEVKIT-S-cp2102"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#GND015") (unit 1)
         )
@@ -20890,7 +20890,7 @@
     )
     (pin "1" (uuid a3cbc679-bb20-415f-b6d4-a299290f7bb4))
     (instances
-      (project "ESP32-DEVKIT-S-wert"
+      (project "ESP32-DEVKIT-S-cp2102"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#GND040") (unit 1)
         )
@@ -20915,7 +20915,7 @@
     )
     (pin "1" (uuid 6c0a2444-378c-4f55-bb82-cf22f3a67b50))
     (instances
-      (project "ESP32-DEVKIT-S-wert"
+      (project "ESP32-DEVKIT-S-cp2102"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#GND03") (unit 1)
         )
@@ -20940,7 +20940,7 @@
     )
     (pin "1" (uuid f4b6e936-7e07-46f2-b177-1710bfae5c10))
     (instances
-      (project "ESP32-DEVKIT-S-wert"
+      (project "ESP32-DEVKIT-S-cp2102"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#GND0112") (unit 1)
         )
@@ -20966,7 +20966,7 @@
     (pin "1" (uuid b4ec6b49-8bdb-4299-8b9b-b567531df97a))
     (pin "2" (uuid df88e548-eb11-448f-b4f1-47aef19bf34a))
     (instances
-      (project "ESP32-DEVKIT-S-wert"
+      (project "ESP32-DEVKIT-S-cp2102"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "C1") (unit 1)
         )
@@ -21010,7 +21010,7 @@
     (pin "8" (uuid 25d36a35-ca6c-4511-95e5-15a6fe64dc1e))
     (pin "9" (uuid f11e5174-68cf-4b91-b340-49dae893fb5c))
     (instances
-      (project "ESP32-DEVKIT-S-wert"
+      (project "ESP32-DEVKIT-S-cp2102"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "J6") (unit 1)
         )
@@ -21035,7 +21035,7 @@
     )
     (pin "1" (uuid 181c2985-c373-42d4-8c2e-bc875ef4a3c6))
     (instances
-      (project "ESP32-DEVKIT-S-wert"
+      (project "ESP32-DEVKIT-S-cp2102"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#GND0103") (unit 1)
         )
@@ -21060,7 +21060,7 @@
     )
     (pin "1" (uuid 9f7853da-c54f-469d-823a-19b2f96d92e0))
     (instances
-      (project "ESP32-DEVKIT-S-wert"
+      (project "ESP32-DEVKIT-S-cp2102"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#GND026") (unit 1)
         )
@@ -21086,7 +21086,7 @@
     (pin "1" (uuid cfaed4d9-9b2b-4397-a49d-16ab61e436de))
     (pin "2" (uuid 40c8157c-eefd-4cfd-990b-5b2ec8133fa1))
     (instances
-      (project "ESP32-DEVKIT-S-wert"
+      (project "ESP32-DEVKIT-S-cp2102"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "JP1") (unit 1)
         )
@@ -21120,7 +21120,7 @@
     (pin "8" (uuid 7c465588-2708-4d7c-806c-7b056a1dcbfc))
     (pin "9" (uuid 7ccd8a81-6d6d-4722-b9d7-3e3a54bef184))
     (instances
-      (project "ESP32-DEVKIT-S-wert"
+      (project "ESP32-DEVKIT-S-cp2102"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "U11") (unit 1)
         )
@@ -21146,7 +21146,7 @@
     (pin "1" (uuid b00a6f6f-00fa-483d-ba21-f1d106e90cb5))
     (pin "2" (uuid 7cda5b35-c480-406d-bed9-880ef10cbea6))
     (instances
-      (project "ESP32-DEVKIT-S-wert"
+      (project "ESP32-DEVKIT-S-cp2102"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "C9") (unit 1)
         )
@@ -21171,7 +21171,7 @@
     )
     (pin "1" (uuid 8a6e5cc0-19ee-43e7-a238-d98184c0599b))
     (instances
-      (project "ESP32-DEVKIT-S-wert"
+      (project "ESP32-DEVKIT-S-cp2102"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#GND0109") (unit 1)
         )
@@ -21197,7 +21197,7 @@
     (pin "1" (uuid ffe37e5d-a380-4bf8-8c26-5047432f1cf4))
     (pin "2" (uuid 41f9d55c-88ef-4f7f-ba13-af1da2328590))
     (instances
-      (project "ESP32-DEVKIT-S-wert"
+      (project "ESP32-DEVKIT-S-cp2102"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "R14") (unit 1)
         )
@@ -21222,7 +21222,7 @@
     )
     (pin "1" (uuid c14f2c65-8800-4f35-ad5f-23a0289bb690))
     (instances
-      (project "ESP32-DEVKIT-S-wert"
+      (project "ESP32-DEVKIT-S-cp2102"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#SUPPLY03") (unit 1)
         )
@@ -21248,7 +21248,7 @@
     (pin "1" (uuid be5574f8-22d6-4666-aafd-5ef0d40270c7))
     (pin "2" (uuid 86081015-4d5f-484b-83a7-e0cf912eb5be))
     (instances
-      (project "ESP32-DEVKIT-S-wert"
+      (project "ESP32-DEVKIT-S-cp2102"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "C7") (unit 1)
         )
@@ -21273,7 +21273,7 @@
     )
     (pin "1" (uuid 32283982-ecbf-432a-b1d3-f26658ffb26c))
     (instances
-      (project "ESP32-DEVKIT-S-wert"
+      (project "ESP32-DEVKIT-S-cp2102"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#GND027") (unit 1)
         )
@@ -21298,7 +21298,7 @@
     )
     (pin "1" (uuid 352128b7-415a-4b4e-802a-b580ece52d4a))
     (instances
-      (project "ESP32-DEVKIT-S-wert"
+      (project "ESP32-DEVKIT-S-cp2102"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#GND0105") (unit 1)
         )
@@ -21332,7 +21332,7 @@
     (pin "8" (uuid 1c8fa4c2-6bb9-4d72-99bc-d80ccce51969))
     (pin "9" (uuid 9c3acb0c-4a22-4ec8-ac4a-24d327b3f9d6))
     (instances
-      (project "ESP32-DEVKIT-S-wert"
+      (project "ESP32-DEVKIT-S-cp2102"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "U10") (unit 1)
         )
@@ -21357,7 +21357,7 @@
     )
     (pin "1" (uuid 8218ac59-7136-4fe5-bdeb-a100932cce8f))
     (instances
-      (project "ESP32-DEVKIT-S-wert"
+      (project "ESP32-DEVKIT-S-cp2102"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#SUPPLY02") (unit 1)
         )
@@ -21383,7 +21383,7 @@
     (pin "1" (uuid c3a21d1a-4a53-4866-945b-09046862d30b))
     (pin "2" (uuid 867a893b-b1b2-4d20-8729-db05abc8ecad))
     (instances
-      (project "ESP32-DEVKIT-S-wert"
+      (project "ESP32-DEVKIT-S-cp2102"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "C4") (unit 1)
         )
@@ -21409,7 +21409,7 @@
     (pin "1" (uuid 6e29d2ec-15fa-4ba2-9c54-88ef9bff32d6))
     (pin "2" (uuid 9e9ecb58-8bba-479a-bca0-4b75dfb5f2b7))
     (instances
-      (project "ESP32-DEVKIT-S-wert"
+      (project "ESP32-DEVKIT-S-cp2102"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "R31") (unit 1)
         )
@@ -21435,7 +21435,7 @@
     (pin "1" (uuid f9f5726c-d0d8-4f43-8eb5-8b4a59f9f4e6))
     (pin "2" (uuid 9972343b-70e4-4809-bea9-4d046d65edac))
     (instances
-      (project "ESP32-DEVKIT-S-wert"
+      (project "ESP32-DEVKIT-S-cp2102"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "R15") (unit 1)
         )
@@ -21460,7 +21460,7 @@
     )
     (pin "1" (uuid 15f1f2d1-976c-478a-9d11-a6ce34ba8c29))
     (instances
-      (project "ESP32-DEVKIT-S-wert"
+      (project "ESP32-DEVKIT-S-cp2102"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#SUPPLY0109") (unit 1)
         )
@@ -21523,7 +21523,7 @@
     (pin "8" (uuid 80919ac9-dfd2-403e-b3e6-42d0322262bd))
     (pin "9" (uuid 92a4b61d-d334-4e47-9d04-c79544b9c4ea))
     (instances
-      (project "ESP32-DEVKIT-S-wert"
+      (project "ESP32-DEVKIT-S-cp2102"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "U4") (unit 1)
         )
@@ -21548,7 +21548,7 @@
     )
     (pin "1" (uuid 3e7c3018-e76a-437a-a0c5-6f64e37f5dcd))
     (instances
-      (project "ESP32-DEVKIT-S-wert"
+      (project "ESP32-DEVKIT-S-cp2102"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#GND06") (unit 1)
         )
@@ -21574,7 +21574,7 @@
     (pin "1" (uuid 838c3bd5-92e8-4ad0-a981-16752a046500))
     (pin "2" (uuid 8bdbe22f-dfc5-45ad-b5c4-00f615ead74d))
     (instances
-      (project "ESP32-DEVKIT-S-wert"
+      (project "ESP32-DEVKIT-S-cp2102"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "R21") (unit 1)
         )
@@ -21599,7 +21599,7 @@
     )
     (pin "1" (uuid 0550133f-edae-418d-9f0d-80ddb4685706))
     (instances
-      (project "ESP32-DEVKIT-S-wert"
+      (project "ESP32-DEVKIT-S-cp2102"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#GND012") (unit 1)
         )
@@ -21624,7 +21624,7 @@
     )
     (pin "1" (uuid 8ad63327-9a2a-44da-9360-5a89e116585a))
     (instances
-      (project "ESP32-DEVKIT-S-wert"
+      (project "ESP32-DEVKIT-S-cp2102"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#GND0106") (unit 1)
         )
@@ -21649,7 +21649,7 @@
     )
     (pin "1" (uuid 75fe2560-0a48-4928-9a10-902a9b6094a4))
     (instances
-      (project "ESP32-DEVKIT-S-wert"
+      (project "ESP32-DEVKIT-S-cp2102"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#SUPPLY01") (unit 1)
         )
@@ -21674,7 +21674,7 @@
     )
     (pin "1" (uuid 37f68533-7762-426c-a388-10d4f8d3778e))
     (instances
-      (project "ESP32-DEVKIT-S-wert"
+      (project "ESP32-DEVKIT-S-cp2102"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#GND042") (unit 1)
         )
@@ -21699,7 +21699,7 @@
     )
     (pin "1" (uuid 63ca7546-4939-41b7-a61f-2a9f6f124bb9))
     (instances
-      (project "ESP32-DEVKIT-S-wert"
+      (project "ESP32-DEVKIT-S-cp2102"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#GND0108") (unit 1)
         )
@@ -21724,7 +21724,7 @@
     )
     (pin "1" (uuid 694591f8-762d-428e-9e8f-634d73e46af9))
     (instances
-      (project "ESP32-DEVKIT-S-wert"
+      (project "ESP32-DEVKIT-S-cp2102"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#SUPPLY015") (unit 1)
         )
@@ -21750,7 +21750,7 @@
     (pin "1" (uuid 4526473e-4525-41a7-903c-2b2a53df70d0))
     (pin "2" (uuid cdf03400-7f57-4eb1-9419-68fef90191d5))
     (instances
-      (project "ESP32-DEVKIT-S-wert"
+      (project "ESP32-DEVKIT-S-cp2102"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "R25") (unit 1)
         )
@@ -21775,7 +21775,7 @@
     )
     (pin "1" (uuid fde5e6b1-9be7-4b24-b9ae-7a547a12a8a4))
     (instances
-      (project "ESP32-DEVKIT-S-wert"
+      (project "ESP32-DEVKIT-S-cp2102"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#GND032") (unit 1)
         )
@@ -21801,7 +21801,7 @@
     (pin "1" (uuid 6532717d-6fd6-4e09-9e94-90557031cb5e))
     (pin "2" (uuid f4542fa6-89ce-410d-98d1-07e4ded1893e))
     (instances
-      (project "ESP32-DEVKIT-S-wert"
+      (project "ESP32-DEVKIT-S-cp2102"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "R34") (unit 1)
         )
@@ -21827,7 +21827,7 @@
     (pin "1" (uuid 28b56eba-80c2-4dbf-834f-bd97b0853deb))
     (pin "2" (uuid 759c3875-3d84-47cd-a5e8-6f73e3314dc0))
     (instances
-      (project "ESP32-DEVKIT-S-wert"
+      (project "ESP32-DEVKIT-S-cp2102"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "R12") (unit 1)
         )
@@ -21852,7 +21852,7 @@
     )
     (pin "1" (uuid 5ffadb6f-c897-4fd2-8be2-d4058ac7af11))
     (instances
-      (project "ESP32-DEVKIT-S-wert"
+      (project "ESP32-DEVKIT-S-cp2102"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#GND0101") (unit 1)
         )
@@ -21877,7 +21877,7 @@
     )
     (pin "1" (uuid 35b7ca48-483a-4648-a3f8-8c02a209aaf9))
     (instances
-      (project "ESP32-DEVKIT-S-wert"
+      (project "ESP32-DEVKIT-S-cp2102"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#GND02") (unit 1)
         )
@@ -21902,7 +21902,7 @@
     )
     (pin "1" (uuid 222baaa1-ca5a-4440-99ca-833845446968))
     (instances
-      (project "ESP32-DEVKIT-S-wert"
+      (project "ESP32-DEVKIT-S-cp2102"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#GND09") (unit 1)
         )
@@ -21927,7 +21927,7 @@
     )
     (pin "1" (uuid 2aa40e9d-1e40-43f6-a0e3-34a6bf60350b))
     (instances
-      (project "ESP32-DEVKIT-S-wert"
+      (project "ESP32-DEVKIT-S-cp2102"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#SUPPLY05") (unit 1)
         )
@@ -21952,7 +21952,7 @@
     )
     (pin "1" (uuid 6cdb8c0e-9baa-46e5-883b-61c49f231860))
     (instances
-      (project "ESP32-DEVKIT-S-wert"
+      (project "ESP32-DEVKIT-S-cp2102"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#SUPPLY0112") (unit 1)
         )
@@ -21977,7 +21977,7 @@
     )
     (pin "1" (uuid 9b6adedd-5c6d-4081-a368-a67ae66756ab))
     (instances
-      (project "ESP32-DEVKIT-S-wert"
+      (project "ESP32-DEVKIT-S-cp2102"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#GND046") (unit 1)
         )
@@ -22001,7 +22001,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
-      (project "ESP32-DEVKIT-S-wert"
+      (project "ESP32-DEVKIT-S-cp2102"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "LOGO2") (unit 1)
         )
@@ -22033,7 +22033,7 @@
     (pin "4" (uuid 21c8fe5a-18eb-4119-b725-e290909684e8))
     (pin "5" (uuid 5d556488-6a66-406e-baeb-3233df69fea8))
     (instances
-      (project "ESP32-DEVKIT-S-wert"
+      (project "ESP32-DEVKIT-S-cp2102"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "U2") (unit 1)
         )
@@ -22066,7 +22066,7 @@
     (pin "8" (uuid e824ea96-17e2-4575-b7cd-e73266b70c0d))
     (pin "9" (uuid b9bad6b0-8c7a-4808-ae88-2439941edb70))
     (instances
-      (project "ESP32-DEVKIT-S-wert"
+      (project "ESP32-DEVKIT-S-cp2102"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "U8") (unit 1)
         )
@@ -22091,7 +22091,7 @@
     )
     (pin "1" (uuid d3bb6ed5-1e25-4a7c-b97e-8bef2029139a))
     (instances
-      (project "ESP32-DEVKIT-S-wert"
+      (project "ESP32-DEVKIT-S-cp2102"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#GND028") (unit 1)
         )
@@ -22116,7 +22116,7 @@
     )
     (pin "1" (uuid 412cd5a1-6301-437a-8fd6-8312e123211e))
     (instances
-      (project "ESP32-DEVKIT-S-wert"
+      (project "ESP32-DEVKIT-S-cp2102"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#GND035") (unit 1)
         )
@@ -22142,7 +22142,7 @@
     (pin "1" (uuid 1b430446-781d-4aee-8c36-72760891a7e2))
     (pin "2" (uuid 6a20473b-10c7-421a-b1f6-564f54e39959))
     (instances
-      (project "ESP32-DEVKIT-S-wert"
+      (project "ESP32-DEVKIT-S-cp2102"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "R13") (unit 1)
         )
@@ -22168,7 +22168,7 @@
     (pin "1" (uuid 7fcf3c39-b1bf-411f-85a5-f28aceac7568))
     (pin "2" (uuid 77b3f478-13b1-4402-b099-cdce6fe465a7))
     (instances
-      (project "ESP32-DEVKIT-S-wert"
+      (project "ESP32-DEVKIT-S-cp2102"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "C19") (unit 1)
         )
@@ -22197,7 +22197,7 @@
     (pin "4" (uuid 32e28f3e-4afc-47d9-ade2-bf7e59b45a73))
     (pin "5" (uuid 55ac468b-e029-45df-97bc-1f360c9666ed))
     (instances
-      (project "ESP32-DEVKIT-S-wert"
+      (project "ESP32-DEVKIT-S-cp2102"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "U5") (unit 1)
         )
@@ -22222,7 +22222,7 @@
     )
     (pin "1" (uuid 1f0a95c3-8826-4133-9a87-14e243401c85))
     (instances
-      (project "ESP32-DEVKIT-S-wert"
+      (project "ESP32-DEVKIT-S-cp2102"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#GND04") (unit 1)
         )
@@ -22260,7 +22260,7 @@
     (pin "8" (uuid 1c717ea6-0493-49ce-8dda-842e0330d404))
     (pin "9" (uuid b647e255-1d65-4480-bd03-f1d322d5fba8))
     (instances
-      (project "ESP32-DEVKIT-S-wert"
+      (project "ESP32-DEVKIT-S-cp2102"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "U1") (unit 1)
         )
@@ -22285,7 +22285,7 @@
     )
     (pin "1" (uuid d81dcace-a6c6-453d-8231-9f29791ccd01))
     (instances
-      (project "ESP32-DEVKIT-S-wert"
+      (project "ESP32-DEVKIT-S-cp2102"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#SUPPLY031") (unit 1)
         )
@@ -22313,7 +22313,7 @@
     (pin "NC1" (uuid cd1d3f2f-2208-487d-8050-b38e274344bf))
     (pin "NC2" (uuid 1f8565f5-2461-4b7c-a840-576b70661eea))
     (instances
-      (project "ESP32-DEVKIT-S-wert"
+      (project "ESP32-DEVKIT-S-cp2102"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "J1") (unit 1)
         )
@@ -22339,7 +22339,7 @@
     (pin "1" (uuid 614ab7cf-9330-42fb-904f-e9470ea623c7))
     (pin "2" (uuid bf6055fe-2ae4-4d17-894e-296d80c63b2e))
     (instances
-      (project "ESP32-DEVKIT-S-wert"
+      (project "ESP32-DEVKIT-S-cp2102"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "C5") (unit 1)
         )
@@ -22365,7 +22365,7 @@
     (pin "1" (uuid 42958d18-1e89-4782-ba48-c023c48d2a6f))
     (pin "2" (uuid 2fd576b1-1cc0-4923-b8c8-7f765b98bd3e))
     (instances
-      (project "ESP32-DEVKIT-S-wert"
+      (project "ESP32-DEVKIT-S-cp2102"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "R30") (unit 1)
         )
@@ -22390,7 +22390,7 @@
     )
     (pin "1" (uuid 5bd9e3ff-609b-44b2-8a3f-c2045c225f80))
     (instances
-      (project "ESP32-DEVKIT-S-wert"
+      (project "ESP32-DEVKIT-S-cp2102"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#SUPPLY028") (unit 1)
         )
@@ -22416,7 +22416,7 @@
     (pin "1" (uuid bd31b543-eaec-4b36-ac11-f334e1721357))
     (pin "2" (uuid 67e988d6-4404-45f2-8970-bf1b58a49880))
     (instances
-      (project "ESP32-DEVKIT-S-wert"
+      (project "ESP32-DEVKIT-S-cp2102"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "C8") (unit 1)
         )
@@ -22442,7 +22442,7 @@
     (pin "1" (uuid 91ee514d-b8e2-47d5-bf7e-f55cd1cb3947))
     (pin "2" (uuid 4653b95b-59bf-433b-8ef9-290b8f56341c))
     (instances
-      (project "ESP32-DEVKIT-S-wert"
+      (project "ESP32-DEVKIT-S-cp2102"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "R5") (unit 1)
         )
@@ -22467,7 +22467,7 @@
     )
     (pin "1" (uuid 274c14c0-bd75-4371-aeab-1acc19229b23))
     (instances
-      (project "ESP32-DEVKIT-S-wert"
+      (project "ESP32-DEVKIT-S-cp2102"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#GND031") (unit 1)
         )
@@ -22493,7 +22493,7 @@
     (pin "1" (uuid ba4e1de3-c42e-4677-9fc2-bd717bc92630))
     (pin "2" (uuid 2139ca68-d85f-4bc2-89a7-3943fb5d8061))
     (instances
-      (project "ESP32-DEVKIT-S-wert"
+      (project "ESP32-DEVKIT-S-cp2102"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "C6") (unit 1)
         )
@@ -22518,7 +22518,7 @@
     )
     (pin "1" (uuid 05765d2e-9082-44e2-9402-19f587c7db71))
     (instances
-      (project "ESP32-DEVKIT-S-wert"
+      (project "ESP32-DEVKIT-S-cp2102"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#SUPPLY06") (unit 1)
         )
@@ -22544,7 +22544,7 @@
     (pin "1" (uuid 4a2ce590-c148-4160-8aea-8856bb50a5d4))
     (pin "2" (uuid bef87ccb-a385-4ae2-ad14-02699f193e0d))
     (instances
-      (project "ESP32-DEVKIT-S-wert"
+      (project "ESP32-DEVKIT-S-cp2102"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "R17") (unit 1)
         )
@@ -22570,7 +22570,7 @@
     (pin "1" (uuid 0c53686e-455d-4fe5-8720-b612de983a2d))
     (pin "2" (uuid dcf90d2e-8e0e-4de5-b2b2-9abf25693fd8))
     (instances
-      (project "ESP32-DEVKIT-S-wert"
+      (project "ESP32-DEVKIT-S-cp2102"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "C2") (unit 1)
         )
@@ -22594,7 +22594,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
-      (project "ESP32-DEVKIT-S-wert"
+      (project "ESP32-DEVKIT-S-cp2102"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "U$1") (unit 1)
         )
@@ -22619,7 +22619,7 @@
     )
     (pin "1" (uuid fe754ec9-bbb1-4045-89d6-7af6dda31217))
     (instances
-      (project "ESP32-DEVKIT-S-wert"
+      (project "ESP32-DEVKIT-S-cp2102"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#SUPPLY0101") (unit 1)
         )
@@ -22645,7 +22645,7 @@
     (pin "1" (uuid 79aabd7a-64cb-4543-88a8-5dae13e81acc))
     (pin "2" (uuid a308a004-0f28-420a-a447-c9eae54584f3))
     (instances
-      (project "ESP32-DEVKIT-S-wert"
+      (project "ESP32-DEVKIT-S-cp2102"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "R6") (unit 1)
         )
@@ -22669,7 +22669,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
-      (project "ESP32-DEVKIT-S-wert"
+      (project "ESP32-DEVKIT-S-cp2102"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "LOGO1") (unit 1)
         )
@@ -22694,7 +22694,7 @@
     )
     (pin "1" (uuid 21778e4b-2632-4144-9d81-51f027d67903))
     (instances
-      (project "ESP32-DEVKIT-S-wert"
+      (project "ESP32-DEVKIT-S-cp2102"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#SUPPLY024") (unit 1)
         )
@@ -22720,7 +22720,7 @@
     (pin "1" (uuid dd711b5c-9105-4ca1-b5c1-62e9336636b2))
     (pin "2" (uuid d4178c78-dea5-4290-aa4d-e68ad2ecfe71))
     (instances
-      (project "ESP32-DEVKIT-S-wert"
+      (project "ESP32-DEVKIT-S-cp2102"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "R26") (unit 1)
         )
@@ -22746,7 +22746,7 @@
     (pin "1" (uuid b11a9295-b381-4a5d-9016-4997c8f7925d))
     (pin "2" (uuid 1babab12-bb6c-4ed0-a183-d75551124cc9))
     (instances
-      (project "ESP32-DEVKIT-S-wert"
+      (project "ESP32-DEVKIT-S-cp2102"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "R16") (unit 1)
         )
@@ -22772,7 +22772,7 @@
     (pin "1" (uuid 57ee8fca-bbb6-4f69-85fd-2dc724382431))
     (pin "2" (uuid 51f55bda-86aa-4df2-97d3-a7acaf40cbb5))
     (instances
-      (project "ESP32-DEVKIT-S-wert"
+      (project "ESP32-DEVKIT-S-cp2102"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "C10") (unit 1)
         )
@@ -22802,7 +22802,7 @@
     (pin "2" (uuid 83530325-a63a-4b10-af5d-1a7437530edd))
     (pin "6" (uuid 56bb7629-ed94-4993-b108-2652e2053b32))
     (instances
-      (project "ESP32-DEVKIT-S-wert"
+      (project "ESP32-DEVKIT-S-cp2102"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "Q2") (unit 2)
         )
@@ -22836,7 +22836,7 @@
     (pin "8" (uuid 9f446255-df0b-4f62-8174-6a032af38f7c))
     (pin "9" (uuid 6754ee27-ef24-4ac2-9c60-e83d6cfacd53))
     (instances
-      (project "ESP32-DEVKIT-S-wert"
+      (project "ESP32-DEVKIT-S-cp2102"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "U12") (unit 1)
         )
@@ -22862,7 +22862,7 @@
     (pin "1" (uuid 9263d446-e950-43be-8eee-5a9222123474))
     (pin "2" (uuid b30f9ab3-53db-48d1-bd10-38dd1ddd6a36))
     (instances
-      (project "ESP32-DEVKIT-S-wert"
+      (project "ESP32-DEVKIT-S-cp2102"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "R23") (unit 1)
         )
@@ -22911,7 +22911,7 @@
     (pin "8" (uuid a87725ea-ee73-4b25-84a6-703668bfb623))
     (pin "9" (uuid 774e9dd9-adb5-45b9-b3df-01f6597760ba))
     (instances
-      (project "ESP32-DEVKIT-S-wert"
+      (project "ESP32-DEVKIT-S-cp2102"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "U14") (unit 1)
         )
@@ -22945,7 +22945,7 @@
     (pin "8" (uuid 7395a016-c9a3-4046-b05d-856f9f9d98e4))
     (pin "9" (uuid 28571b2e-a0b4-4573-844c-6a333f0cbd7d))
     (instances
-      (project "ESP32-DEVKIT-S-wert"
+      (project "ESP32-DEVKIT-S-cp2102"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "U9") (unit 1)
         )
@@ -22970,7 +22970,7 @@
     )
     (pin "1" (uuid 716ec183-6e41-47fa-8198-9f6bd357c99c))
     (instances
-      (project "ESP32-DEVKIT-S-wert"
+      (project "ESP32-DEVKIT-S-cp2102"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#GND010") (unit 1)
         )
@@ -22995,7 +22995,7 @@
     )
     (pin "1" (uuid b584a70e-b7f3-40f9-a7ca-fd598c6f4a58))
     (instances
-      (project "ESP32-DEVKIT-S-wert"
+      (project "ESP32-DEVKIT-S-cp2102"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#SUPPLY0107") (unit 1)
         )
@@ -23020,7 +23020,7 @@
     )
     (pin "1" (uuid cb03b786-9d24-450a-80ad-bf23fbb5a07e))
     (instances
-      (project "ESP32-DEVKIT-S-wert"
+      (project "ESP32-DEVKIT-S-cp2102"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#SUPPLY027") (unit 1)
         )
@@ -23048,7 +23048,7 @@
     (pin "3" (uuid ec1c245a-2de0-4c04-a692-0800eb9260fb))
     (pin "4" (uuid e64c7c44-418f-4a0f-a8d0-b1f0aa8c46da))
     (instances
-      (project "ESP32-DEVKIT-S-wert"
+      (project "ESP32-DEVKIT-S-cp2102"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "J4") (unit 1)
         )
@@ -23076,7 +23076,7 @@
     (pin "3" (uuid 7d7d72de-d8df-4810-9397-c849cf8513a5))
     (pin "4" (uuid 259497c7-d996-4e5f-9ab9-c3962fa8f49e))
     (instances
-      (project "ESP32-DEVKIT-S-wert"
+      (project "ESP32-DEVKIT-S-cp2102"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "S1") (unit 1)
         )
@@ -23101,7 +23101,7 @@
     )
     (pin "1" (uuid 4d46f2b8-990a-453d-928f-80547db53857))
     (instances
-      (project "ESP32-DEVKIT-S-wert"
+      (project "ESP32-DEVKIT-S-cp2102"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#GND043") (unit 1)
         )
@@ -23126,7 +23126,7 @@
     )
     (pin "1" (uuid d88a3db2-c577-41bf-bd4b-a081fc7bb983))
     (instances
-      (project "ESP32-DEVKIT-S-wert"
+      (project "ESP32-DEVKIT-S-cp2102"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#GND011") (unit 1)
         )
@@ -23170,7 +23170,7 @@
     (pin "8" (uuid 0d7fdf42-fa68-4328-849b-91787eb07524))
     (pin "9" (uuid b969b4be-0a54-40fa-8cfe-71a387e63ce9))
     (instances
-      (project "ESP32-DEVKIT-S-wert"
+      (project "ESP32-DEVKIT-S-cp2102"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "J3") (unit 1)
         )
@@ -23196,7 +23196,7 @@
     (pin "1" (uuid d92854a6-36d5-49f3-90a3-246bbbcfbc2f))
     (pin "2" (uuid 6f4bd36d-a4ea-4c25-991f-2d8b4dcfc3ad))
     (instances
-      (project "ESP32-DEVKIT-S-wert"
+      (project "ESP32-DEVKIT-S-cp2102"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "R7") (unit 1)
         )
@@ -23222,7 +23222,7 @@
     (pin "1" (uuid 9fdaa126-9d66-4f09-bf62-06d60a8a83e3))
     (pin "2" (uuid 60120d78-b7f4-41ca-805b-234ebe496865))
     (instances
-      (project "ESP32-DEVKIT-S-wert"
+      (project "ESP32-DEVKIT-S-cp2102"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "JP2") (unit 1)
         )
@@ -23247,7 +23247,7 @@
     )
     (pin "1" (uuid 59a91c86-c513-4ee9-8db1-96a7cc1c1f1b))
     (instances
-      (project "ESP32-DEVKIT-S-wert"
+      (project "ESP32-DEVKIT-S-cp2102"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#SUPPLY0106") (unit 1)
         )
@@ -23275,7 +23275,7 @@
     (pin "3" (uuid 0c686a94-66fd-4bd9-a90a-1dbaee713a54))
     (pin "4" (uuid f82d0154-944c-417a-8482-4b12a8cfabb7))
     (instances
-      (project "ESP32-DEVKIT-S-wert"
+      (project "ESP32-DEVKIT-S-cp2102"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "S2") (unit 1)
         )
@@ -23300,7 +23300,7 @@
     )
     (pin "1" (uuid f3b4d69c-e254-4c31-8146-a54ec766312e))
     (instances
-      (project "ESP32-DEVKIT-S-wert"
+      (project "ESP32-DEVKIT-S-cp2102"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#GND021") (unit 1)
         )
@@ -23325,7 +23325,7 @@
     )
     (pin "1" (uuid 1bcdc391-8b2d-4258-80b7-65cd830d7886))
     (instances
-      (project "ESP32-DEVKIT-S-wert"
+      (project "ESP32-DEVKIT-S-cp2102"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#SUPPLY08") (unit 1)
         )
@@ -23351,7 +23351,7 @@
     (pin "1" (uuid 524f67e6-d98c-4065-b8f4-db0644d4466b))
     (pin "2" (uuid df64e197-ec96-4c7c-ab36-5aa9633677b2))
     (instances
-      (project "ESP32-DEVKIT-S-wert"
+      (project "ESP32-DEVKIT-S-cp2102"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "C12") (unit 1)
         )
@@ -23377,7 +23377,7 @@
     (pin "1" (uuid 0f96b6e0-bec4-40de-ac26-1292f299451d))
     (pin "2" (uuid 437142d9-e2da-4064-86f1-a32adff4e95d))
     (instances
-      (project "ESP32-DEVKIT-S-wert"
+      (project "ESP32-DEVKIT-S-cp2102"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "R11") (unit 1)
         )
@@ -23403,7 +23403,7 @@
     (pin "1" (uuid 94856d1c-51b6-4054-9fd4-c34369ed4b0e))
     (pin "2" (uuid d6127d25-208c-4354-8baf-fd0f39937d7d))
     (instances
-      (project "ESP32-DEVKIT-S-wert"
+      (project "ESP32-DEVKIT-S-cp2102"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "R28") (unit 1)
         )
@@ -23428,7 +23428,7 @@
     )
     (pin "1" (uuid 3c141cc9-0c5b-4fd2-bb84-b10a99b09baf))
     (instances
-      (project "ESP32-DEVKIT-S-wert"
+      (project "ESP32-DEVKIT-S-cp2102"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#SUPPLY029") (unit 1)
         )
@@ -23454,7 +23454,7 @@
     (pin "1" (uuid 9214d64e-0550-4442-bb2b-f62f9b6e1564))
     (pin "2" (uuid 80442f44-cf21-4559-9d05-94340a8f163f))
     (instances
-      (project "ESP32-DEVKIT-S-wert"
+      (project "ESP32-DEVKIT-S-cp2102"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "R3") (unit 1)
         )
@@ -23480,7 +23480,7 @@
     (pin "1" (uuid cbe12b20-5da9-4caf-bc71-0b6dfd3c0cbd))
     (pin "2" (uuid 3dc8e94a-9862-4b08-9181-56c47cde1e56))
     (instances
-      (project "ESP32-DEVKIT-S-wert"
+      (project "ESP32-DEVKIT-S-cp2102"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "R9") (unit 1)
         )
@@ -23506,7 +23506,7 @@
     (pin "1" (uuid 497559c7-8d3d-499e-9187-01be26225423))
     (pin "2" (uuid 56cb7742-5897-469a-84fd-ad121b05d45a))
     (instances
-      (project "ESP32-DEVKIT-S-wert"
+      (project "ESP32-DEVKIT-S-cp2102"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "R22") (unit 1)
         )
@@ -23531,7 +23531,7 @@
     )
     (pin "1" (uuid fff8d9e3-79d4-47cc-995b-bb2d36440415))
     (instances
-      (project "ESP32-DEVKIT-S-wert"
+      (project "ESP32-DEVKIT-S-cp2102"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#GND041") (unit 1)
         )
@@ -23557,7 +23557,7 @@
     (pin "1" (uuid 56cc104d-37ad-4874-bbf6-63e74841425b))
     (pin "2" (uuid 3828475e-3d1d-45fe-b7d0-71addb504e8c))
     (instances
-      (project "ESP32-DEVKIT-S-wert"
+      (project "ESP32-DEVKIT-S-cp2102"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "R2") (unit 1)
         )
@@ -23582,7 +23582,7 @@
     )
     (pin "1" (uuid 5ce2270e-470d-4601-bba0-d00e82a23809))
     (instances
-      (project "ESP32-DEVKIT-S-wert"
+      (project "ESP32-DEVKIT-S-cp2102"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#GND038") (unit 1)
         )
@@ -23608,7 +23608,7 @@
     (pin "1" (uuid 1dc2e0dc-ab8e-4b27-a3bb-f5cee993783c))
     (pin "2" (uuid 31d6c0da-a2f2-451a-81c1-e8a9308082ce))
     (instances
-      (project "ESP32-DEVKIT-S-wert"
+      (project "ESP32-DEVKIT-S-cp2102"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "R18") (unit 1)
         )
@@ -23633,7 +23633,7 @@
     )
     (pin "1" (uuid 7c09fcd8-3394-4c35-a741-34fb6eb48302))
     (instances
-      (project "ESP32-DEVKIT-S-wert"
+      (project "ESP32-DEVKIT-S-cp2102"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#GND014") (unit 1)
         )
@@ -23658,7 +23658,7 @@
     )
     (pin "1" (uuid 294a3c28-6480-4478-be03-5d5ddb07bde9))
     (instances
-      (project "ESP32-DEVKIT-S-wert"
+      (project "ESP32-DEVKIT-S-cp2102"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#SUPPLY0104") (unit 1)
         )
@@ -23684,7 +23684,7 @@
     (pin "A" (uuid 7f0287cf-4ea1-44ca-b734-31375933c5a1))
     (pin "C" (uuid 9eda45bf-7180-413e-aa67-31738bff3704))
     (instances
-      (project "ESP32-DEVKIT-S-wert"
+      (project "ESP32-DEVKIT-S-cp2102"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "D3") (unit 1)
         )
@@ -23709,7 +23709,7 @@
     )
     (pin "1" (uuid af7069c2-dc8f-4b1f-95df-349def01ba32))
     (instances
-      (project "ESP32-DEVKIT-S-wert"
+      (project "ESP32-DEVKIT-S-cp2102"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#GND016") (unit 1)
         )
@@ -23734,7 +23734,7 @@
     )
     (pin "1" (uuid 87a701d3-e270-4367-9243-0a00cdbac679))
     (instances
-      (project "ESP32-DEVKIT-S-wert"
+      (project "ESP32-DEVKIT-S-cp2102"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#SUPPLY0103") (unit 1)
         )
@@ -23759,7 +23759,7 @@
     )
     (pin "1" (uuid fa778401-980d-48f3-87fe-efec24d2a222))
     (instances
-      (project "ESP32-DEVKIT-S-wert"
+      (project "ESP32-DEVKIT-S-cp2102"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#GND01") (unit 1)
         )
@@ -23785,7 +23785,7 @@
     (pin "1" (uuid 6f85f175-5706-4ad7-a095-ad97ecf59af2))
     (pin "2" (uuid 64989621-013f-4dd8-96ca-a2d990b03ae4))
     (instances
-      (project "ESP32-DEVKIT-S-wert"
+      (project "ESP32-DEVKIT-S-cp2102"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "R33") (unit 1)
         )
@@ -23812,7 +23812,7 @@
     (pin "2" (uuid 0011da75-edff-4f0c-8cb9-1ee3eb97ecca))
     (pin "3" (uuid 5e28914b-890e-4823-9763-ac99377fecbb))
     (instances
-      (project "ESP32-DEVKIT-S-wert"
+      (project "ESP32-DEVKIT-S-cp2102"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "Q1") (unit 1)
         )
@@ -23840,7 +23840,7 @@
     (pin "3" (uuid d888935b-2910-4e1f-bcf4-cbf56a0a86eb))
     (pin "4" (uuid e352985c-cea5-451c-ad05-515461734968))
     (instances
-      (project "ESP32-DEVKIT-S-wert"
+      (project "ESP32-DEVKIT-S-cp2102"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "J7") (unit 1)
         )
@@ -23870,7 +23870,7 @@
     (pin "2" (uuid 692e9c7f-dd67-4f2b-a589-64b7de5ff417))
     (pin "6" (uuid 36d50ebd-14ed-46d3-b9f1-0970d8d2b6aa))
     (instances
-      (project "ESP32-DEVKIT-S-wert"
+      (project "ESP32-DEVKIT-S-cp2102"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "Q2") (unit 1)
         )
@@ -23895,7 +23895,7 @@
     )
     (pin "1" (uuid 5c9227e6-a356-4e61-b344-a2afa2aecf6e))
     (instances
-      (project "ESP32-DEVKIT-S-wert"
+      (project "ESP32-DEVKIT-S-cp2102"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#SUPPLY0105") (unit 1)
         )
@@ -23920,7 +23920,7 @@
     )
     (pin "1" (uuid b9923f33-1b2a-4c4d-825c-e4758c702f61))
     (instances
-      (project "ESP32-DEVKIT-S-wert"
+      (project "ESP32-DEVKIT-S-cp2102"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#GND045") (unit 1)
         )
@@ -23945,7 +23945,7 @@
     )
     (pin "1" (uuid 5a96c851-2e76-4ca5-aae6-80e14fc360f6))
     (instances
-      (project "ESP32-DEVKIT-S-wert"
+      (project "ESP32-DEVKIT-S-cp2102"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#SUPPLY010") (unit 1)
         )
@@ -23970,7 +23970,7 @@
     )
     (pin "1" (uuid c6b2c768-c3c6-4aac-83b9-0f83958f81db))
     (instances
-      (project "ESP32-DEVKIT-S-wert"
+      (project "ESP32-DEVKIT-S-cp2102"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#SUPPLY030") (unit 1)
         )
@@ -23995,7 +23995,7 @@
     )
     (pin "1" (uuid 1927e28a-0b98-4f75-9df5-77cdaa34834a))
     (instances
-      (project "ESP32-DEVKIT-S-wert"
+      (project "ESP32-DEVKIT-S-cp2102"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#GND037") (unit 1)
         )
@@ -24021,7 +24021,7 @@
     (pin "1" (uuid c9fbb91d-ccfb-4e44-916b-2a467dbd1235))
     (pin "2" (uuid aa326496-e4e1-4cb5-9db6-ee98d1254f36))
     (instances
-      (project "ESP32-DEVKIT-S-wert"
+      (project "ESP32-DEVKIT-S-cp2102"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "C20") (unit 1)
         )
@@ -24046,7 +24046,7 @@
     )
     (pin "1" (uuid 91146b51-fc86-43ae-93c6-7a209cc460b3))
     (instances
-      (project "ESP32-DEVKIT-S-wert"
+      (project "ESP32-DEVKIT-S-cp2102"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#GND0110") (unit 1)
         )
@@ -24071,7 +24071,7 @@
     )
     (pin "1" (uuid 10b8e4d9-c9c7-4262-9b3e-1059b667129c))
     (instances
-      (project "ESP32-DEVKIT-S-wert"
+      (project "ESP32-DEVKIT-S-cp2102"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#SUPPLY04") (unit 1)
         )
@@ -24096,7 +24096,7 @@
     )
     (pin "1" (uuid 96949a53-2afe-44ab-bfaf-367673706916))
     (instances
-      (project "ESP32-DEVKIT-S-wert"
+      (project "ESP32-DEVKIT-S-cp2102"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#GND0102") (unit 1)
         )
@@ -24121,7 +24121,7 @@
     )
     (pin "1" (uuid 5148c363-86cb-4d55-b833-4a75dcb4e5b7))
     (instances
-      (project "ESP32-DEVKIT-S-wert"
+      (project "ESP32-DEVKIT-S-cp2102"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#SUPPLY021") (unit 1)
         )
@@ -24146,7 +24146,7 @@
     )
     (pin "1" (uuid 5366c0a8-265d-44f2-b8d6-35ba2309adcb))
     (instances
-      (project "ESP32-DEVKIT-S-wert"
+      (project "ESP32-DEVKIT-S-cp2102"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#GND08") (unit 1)
         )
@@ -24190,7 +24190,7 @@
     (pin "8" (uuid a1d408f9-f111-4f1b-955e-596667dee6f3))
     (pin "9" (uuid fee69ecb-b3b6-4a3f-b0e6-9ef29d23cca2))
     (instances
-      (project "ESP32-DEVKIT-S-wert"
+      (project "ESP32-DEVKIT-S-cp2102"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "J5") (unit 1)
         )
@@ -24216,7 +24216,7 @@
     (pin "1" (uuid 5688860d-7db8-44e4-9494-163ee2680a89))
     (pin "2" (uuid 222a68d3-cd78-45f4-8570-1b93fe0130f7))
     (instances
-      (project "ESP32-DEVKIT-S-wert"
+      (project "ESP32-DEVKIT-S-cp2102"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "R19") (unit 1)
         )
@@ -24241,7 +24241,7 @@
     )
     (pin "1" (uuid 3113b66d-45a6-42aa-b171-33e0e22b92cb))
     (instances
-      (project "ESP32-DEVKIT-S-wert"
+      (project "ESP32-DEVKIT-S-cp2102"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#GND036") (unit 1)
         )
@@ -24267,7 +24267,7 @@
     (pin "1" (uuid d0b2cb3c-3dab-40aa-8387-8738aca36c89))
     (pin "2" (uuid 3bd5a881-3dd3-4320-83a7-df32c1287328))
     (instances
-      (project "ESP32-DEVKIT-S-wert"
+      (project "ESP32-DEVKIT-S-cp2102"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "R8") (unit 1)
         )
@@ -24293,7 +24293,7 @@
     (pin "1" (uuid eb93dddb-3556-4d97-8b22-2f8bd34fac89))
     (pin "2" (uuid 46405945-51ca-4c88-81ad-2a9eec410cf3))
     (instances
-      (project "ESP32-DEVKIT-S-wert"
+      (project "ESP32-DEVKIT-S-cp2102"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "R4") (unit 1)
         )
@@ -24319,7 +24319,7 @@
     (pin "1" (uuid 630dde35-9c70-422b-8079-4c8755c54dfb))
     (pin "2" (uuid cdd0f770-084a-4500-8321-05917665c53c))
     (instances
-      (project "ESP32-DEVKIT-S-wert"
+      (project "ESP32-DEVKIT-S-cp2102"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "R24") (unit 1)
         )
@@ -24344,7 +24344,7 @@
     )
     (pin "1" (uuid 40dabea9-15cc-47b9-a892-10d231de197a))
     (instances
-      (project "ESP32-DEVKIT-S-wert"
+      (project "ESP32-DEVKIT-S-cp2102"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#GND029") (unit 1)
         )
@@ -24370,7 +24370,7 @@
     (pin "A" (uuid 20e52b97-83b8-4cb1-b847-3aa2fbe708d4))
     (pin "C" (uuid 12594787-bda6-412f-9999-52b9d309a47d))
     (instances
-      (project "ESP32-DEVKIT-S-wert"
+      (project "ESP32-DEVKIT-S-cp2102"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "D2") (unit 1)
         )
@@ -24396,7 +24396,7 @@
     (pin "1" (uuid eedadbf8-ae7c-4699-92c4-504e3ab80def))
     (pin "2" (uuid e7c83827-85fc-42ee-8f17-1d9564da14b5))
     (instances
-      (project "ESP32-DEVKIT-S-wert"
+      (project "ESP32-DEVKIT-S-cp2102"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "R27") (unit 1)
         )
@@ -24422,7 +24422,7 @@
     (pin "1" (uuid 28d88332-f4e5-4c80-967f-09771f13869a))
     (pin "2" (uuid acb13349-f54e-4cf7-9866-841f91c492bc))
     (instances
-      (project "ESP32-DEVKIT-S-wert"
+      (project "ESP32-DEVKIT-S-cp2102"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "C3") (unit 1)
         )
@@ -24447,7 +24447,7 @@
     )
     (pin "1" (uuid f1bbcb34-2aa4-4aaa-bdd0-a480743bc931))
     (instances
-      (project "ESP32-DEVKIT-S-wert"
+      (project "ESP32-DEVKIT-S-cp2102"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#GND05") (unit 1)
         )
@@ -24472,7 +24472,7 @@
     )
     (pin "1" (uuid 978e96c4-bf0b-4e9e-b455-cf94f92b347e))
     (instances
-      (project "ESP32-DEVKIT-S-wert"
+      (project "ESP32-DEVKIT-S-cp2102"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#SUPPLY0108") (unit 1)
         )

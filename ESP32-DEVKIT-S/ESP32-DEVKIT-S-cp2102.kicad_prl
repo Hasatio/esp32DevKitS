@@ -1,7 +1,7 @@
 {
   "board": {
-    "active_layer": 0,
-    "active_layer_preset": "Front Assembly View",
+    "active_layer": 31,
+    "active_layer_preset": "All Layers",
     "auto_track_width": true,
     "hidden_netclasses": [],
     "hidden_nets": [],
@@ -64,11 +64,7 @@
       39,
       40
     ],
-<<<<<<< HEAD:ESP32-DEVKIT-S/ESP32-DEVKIT-S-cp2102.kicad_prl
-    "visible_layers": "ffcffff_ffffffff",
-=======
-    "visible_layers": "00290a0_00000000",
->>>>>>> 68af404355b3b751be5d1c865b114c6b0174d70a:ESP32-DEVKIT-S/ESP32-DEVKIT-S.kicad_prl
+    "visible_layers": "fffffff_ffffffff",
     "zone_display_mode": 0
   },
   "meta": {
