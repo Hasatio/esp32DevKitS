@@ -618,7 +618,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "ESP32-DEVKIT-S-ch340.kicad_pro",
+    "filename": "ESP32-DEVKIT-S-mirror.kicad_pro",
     "version": 1
   },
   "net_settings": {
