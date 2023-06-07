@@ -1,5 +1,5 @@
-:5
->NAME:6
+:3
+>NAME:4
 C1:1
 C10:1
 C11:1
@@ -52,10 +52,10 @@ R25:1
 R26:1
 R27:1
 R28:1
+R29:1
 R3:1
-R32:1
-R33:1
-R34:1
+R30:1
+R31:1
 R4:1
 R5:1
 R6:1
@@ -65,6 +65,7 @@ R9:1
 REF**:1
 S1:1
 S2:1
+SW1:1
 U1:1
 U11:1
 U2:1
@@ -75,5 +76,5 @@ U6:1
 U7:1
 U8:1
 U9:1
-mouse-bite-1mm-slot:4
-mouse-bite-emm-slot:1
+mouse-bite-1mm-slot:1
+mouse-bite-emm-slot:4
