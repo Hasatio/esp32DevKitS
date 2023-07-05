@@ -5,7 +5,7 @@ The circuit taken as an example while designing the board [Thing Plus C - ESP32 
 This pcb scaled down using the components in the example schematic
 
 
-## Revision 1
+## Revision 0
 
 ### Added:
 
@@ -16,27 +16,28 @@ This pcb scaled down using the components in the example schematic
   - 1x20 FPC connector
   - 1x QWIIC connector
 
-## Changed:
+### Changed:
 
 - ESP32-WROOM-32D model
 - Battery socket breakable PCB
 - Logo
 
-## Removed:
+### Removed:
 
 - RGB led
 - SD card
 
-## Note: The connection cannot be made because the tx rx connection paths are not correct.
+### Note: The connection cannot be made because the tx rx connection paths are not correct.
 
 
 ## Revision 1
 
 - Two circuits were produced for the left and right foot.
 
-## Added:
+### Added:
 - New circuit in mirror image design
-## Changed:
+
+### Changed:
 - Circuit design, components in usb communication and components in the power section
 - CH340C model
 - TX, RX connection paths reversed
