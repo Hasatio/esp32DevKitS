@@ -4,11 +4,14 @@ The circuit taken as an example while designing the board [Thing Plus C - ESP32 
 
 This pcb scaled down using the components in the example schematic
 
-## Added:
+
+## Revision 1
+
+# Added:
 
 - ADXL345 motion sensor IC
 - 2x 1x20 FPC connector for ESP pins
-- In breakable PCB;
+- In breakable PCB:
   - 4x ADS1115
   - 1x20 FPC connector
   - 1x QWIIC connector
@@ -17,9 +20,24 @@ This pcb scaled down using the components in the example schematic
 
 - ESP32-WROOM-32D model
 - Battery socket breakable PCB
-- My logo
+- Logo
 
 ## Removed:
 
 - RGB led
 - SD card
+
+## Note: The connection cannot be made because the tx rx connection paths are not correct.
+
+
+## Revision 1
+
+- Two circuits were produced for the left and right foot.
+
+## Added:
+- New circuit in mirror image design
+## Changed:
+- Circuit design, components in usb communication and components in the power section
+- CH340C model
+- TX, RX connection paths reversed
+- Analog pull up resistor 100k
