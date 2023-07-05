@@ -7,7 +7,7 @@ This pcb scaled down using the components in the example schematic
 
 ## Revision 1
 
-# Added:
+### Added:
 
 - ADXL345 motion sensor IC
 - 2x 1x20 FPC connector for ESP pins
