@@ -17664,14 +17664,14 @@
   (junction (at 146.05 237.49) (diameter 0) (color 0 0 0 0)
     (uuid 1190ad87-6d6c-4066-8361-4e192dda94e6)
   )
+  (junction (at 187.96 54.61) (diameter 0) (color 0 0 0 0)
+    (uuid 1be3c417-a998-4b9c-9993-ce164d411171)
+  )
   (junction (at 149.86 54.61) (diameter 0) (color 0 0 0 0)
     (uuid 1dcc5ee5-4029-4238-b43d-cb131ea510ec)
   )
   (junction (at 220.98 54.61) (diameter 0) (color 0 0 0 0)
     (uuid 1ddf229c-7a66-4f06-be2b-5c911a82f771)
-  )
-  (junction (at 205.74 54.61) (diameter 0) (color 0 0 0 0)
-    (uuid 25bc27e4-efc6-4106-a085-71f393e9526a)
   )
   (junction (at 45.72 60.96) (diameter 0) (color 0 0 0 0)
     (uuid 27f9f157-9525-485c-91c6-7649671f3970)
@@ -17841,6 +17841,10 @@
     (uuid 090eed0c-bd0d-44c6-a3e6-9080cde99e41)
   )
 
+  (wire (pts (xy 205.74 54.61) (xy 187.96 54.61))
+    (stroke (width 0) (type default))
+    (uuid 09300793-5240-414c-9eff-ac3dca8cfe86)
+  )
   (wire (pts (xy 133.35 219.71) (xy 135.89 219.71))
     (stroke (width 0) (type default))
     (uuid 09c1c2ae-d2d7-4c50-9354-327e4ffa411b)
@@ -17856,10 +17860,6 @@
   (wire (pts (xy 38.1 45.72) (xy 38.1 48.26))
     (stroke (width 0) (type default))
     (uuid 0b4bf7ab-f918-4025-9dbb-5641e53a6990)
-  )
-  (wire (pts (xy 205.74 57.15) (xy 205.74 54.61))
-    (stroke (width 0) (type default))
-    (uuid 0b958239-c900-4a97-8849-0910933007f7)
   )
   (wire (pts (xy 350.52 204.47) (xy 353.06 204.47))
     (stroke (width 0) (type default))
@@ -17932,6 +17932,10 @@
   (wire (pts (xy 422.91 181.61) (xy 425.45 181.61))
     (stroke (width 0) (type default))
     (uuid 165298ef-7eb7-4102-88a7-d183b62dad72)
+  )
+  (wire (pts (xy 187.96 52.07) (xy 187.96 54.61))
+    (stroke (width 0) (type default))
+    (uuid 166d6504-5a57-47df-a1c6-3f106504f0f8)
   )
   (polyline (pts (xy 129.54 99.06) (xy 241.3 99.06))
     (stroke (width 0) (type default))
@@ -18084,10 +18088,6 @@
   (wire (pts (xy 63.5 241.3) (xy 67.31 241.3))
     (stroke (width 0) (type default))
     (uuid 2e86af49-50c0-4284-9c80-a18217392015)
-  )
-  (wire (pts (xy 205.74 52.07) (xy 205.74 54.61))
-    (stroke (width 0) (type default))
-    (uuid 2e997197-e30a-4ce8-b395-cf85f3d2db07)
   )
   (wire (pts (xy 186.69 153.67) (xy 184.15 153.67))
     (stroke (width 0) (type default))
@@ -18390,10 +18390,6 @@
     (stroke (width 0) (type default))
     (uuid 65c67203-3f4e-438f-bceb-c440f4b0ce3d)
   )
-  (wire (pts (xy 205.74 54.61) (xy 187.96 54.61))
-    (stroke (width 0) (type default))
-    (uuid 65dbe152-5556-4ec4-9ae8-c834b803079c)
-  )
   (wire (pts (xy 419.1 166.37) (xy 425.45 166.37))
     (stroke (width 0) (type default))
     (uuid 6638998c-bbe9-4486-bcb6-020577cf4a81)
@@ -18526,6 +18522,10 @@
   (wire (pts (xy 422.91 194.31) (xy 425.45 194.31))
     (stroke (width 0) (type default))
     (uuid 837ee887-af80-47ad-9d5e-93f767c3cc8d)
+  )
+  (wire (pts (xy 205.74 54.61) (xy 205.74 57.15))
+    (stroke (width 0) (type default))
+    (uuid 83e1ccad-6a70-4a43-8cda-907b948cef17)
   )
   (wire (pts (xy 393.7 50.8) (xy 393.7 45.72))
     (stroke (width 0) (type default))
@@ -18740,10 +18740,6 @@
   (wire (pts (xy 22.86 58.42) (xy 22.86 55.88))
     (stroke (width 0) (type default))
     (uuid a296f44e-b768-4773-abba-952fca51509a)
-  )
-  (wire (pts (xy 208.28 52.07) (xy 208.28 54.61))
-    (stroke (width 0) (type default))
-    (uuid a30a5b2e-632b-4063-945d-f76472904b92)
   )
   (wire (pts (xy 119.38 71.12) (xy 119.38 73.66))
     (stroke (width 0) (type default))
@@ -19023,10 +19019,6 @@
     (stroke (width 0) (type default))
     (uuid d2dd2eb7-601f-4f59-bf90-6dd1657dba20)
   )
-  (wire (pts (xy 205.74 54.61) (xy 208.28 54.61))
-    (stroke (width 0) (type default))
-    (uuid d3727541-9de2-4e26-8ffd-76c72c54371f)
-  )
   (wire (pts (xy 96.52 60.96) (xy 96.52 63.5))
     (stroke (width 0) (type default))
     (uuid d3f5f18d-235b-4c1e-9b19-3c681228074e)
@@ -19212,6 +19204,10 @@
   (wire (pts (xy 38.1 58.42) (xy 38.1 60.96))
     (stroke (width 0) (type default))
     (uuid f684aa09-8c37-400c-85dd-9566f8069ceb)
+  )
+  (wire (pts (xy 208.28 49.53) (xy 208.28 52.07))
+    (stroke (width 0) (type default))
+    (uuid f71e823b-1785-4e4f-97a8-c915ac307b69)
   )
   (wire (pts (xy 151.13 130.81) (xy 153.67 130.81))
     (stroke (width 0) (type default))
@@ -19448,6 +19444,10 @@
   (label "A2" (at 167.64 231.14 180) (fields_autoplaced)
     (effects (font (size 0.889 0.889)) (justify right bottom))
     (uuid 025800ab-b711-468e-8559-043ac59ac479)
+  )
+  (label "V" (at 187.96 52.07 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 02da6efd-8de5-458f-ba29-dbe634e84e6c)
   )
   (label "CH340-DTR" (at 320.04 64.77 0) (fields_autoplaced)
     (effects (font (size 0.889 0.889)) (justify left bottom))
@@ -20036,7 +20036,12 @@
     (pin "1" (uuid ec2703ea-d465-4403-94ad-ccebbf6c6d7f))
     (pin "2" (uuid 9e86ccb2-61bf-4be1-8056-26404da34cb6))
     (instances
-      (project "ESP32-DEVKIT-S-ch340-mirror"
+      (project "panelization"
+        (path "/59a615f3-0e3a-43f4-a782-84f1af971154/06b7eb7f-1fd7-4161-9c4c-0f364271d469"
+          (reference "C16") (unit 1)
+        )
+      )
+      (project "L"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "C16") (unit 1)
         )
@@ -20062,7 +20067,12 @@
     (pin "A" (uuid 4207aec9-4b6b-4a4f-8c95-6783cf9893da))
     (pin "C" (uuid aaf1b66f-6595-4199-8802-d081a579ec60))
     (instances
-      (project "ESP32-DEVKIT-S-ch340-mirror"
+      (project "panelization"
+        (path "/59a615f3-0e3a-43f4-a782-84f1af971154/06b7eb7f-1fd7-4161-9c4c-0f364271d469"
+          (reference "D6") (unit 1)
+        )
+      )
+      (project "L"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "D6") (unit 1)
         )
@@ -20087,7 +20097,12 @@
     )
     (pin "1" (uuid a589f159-feac-4672-9ba3-10d02a391cf9))
     (instances
-      (project "ESP32-DEVKIT-S-ch340-mirror"
+      (project "panelization"
+        (path "/59a615f3-0e3a-43f4-a782-84f1af971154/06b7eb7f-1fd7-4161-9c4c-0f364271d469"
+          (reference "#GND087") (unit 1)
+        )
+      )
+      (project "L"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#GND087") (unit 1)
         )
@@ -20112,7 +20127,12 @@
     )
     (pin "1" (uuid fee7af1d-9a0b-41b8-a7f5-f352fd652c47))
     (instances
-      (project "ESP32-DEVKIT-S-ch340-mirror"
+      (project "panelization"
+        (path "/59a615f3-0e3a-43f4-a782-84f1af971154/06b7eb7f-1fd7-4161-9c4c-0f364271d469"
+          (reference "#SUPPLY036") (unit 1)
+        )
+      )
+      (project "L"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#SUPPLY036") (unit 1)
         )
@@ -20140,7 +20160,12 @@
     (pin "3" (uuid 94ce289b-0416-4a20-8ace-884f8694ca2d))
     (pin "4" (uuid ca55a3e5-a52f-4032-b0e2-3b7f4e08caa0))
     (instances
-      (project "ESP32-DEVKIT-S-ch340-mirror"
+      (project "panelization"
+        (path "/59a615f3-0e3a-43f4-a782-84f1af971154/06b7eb7f-1fd7-4161-9c4c-0f364271d469"
+          (reference "J10") (unit 1)
+        )
+      )
+      (project "L"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "J10") (unit 1)
         )
@@ -20166,7 +20191,12 @@
     (pin "1" (uuid 6633d309-86c1-4df4-87f6-992860d5dc60))
     (pin "2" (uuid 9c973ef4-bdce-4b27-807e-315b4f8dd928))
     (instances
-      (project "ESP32-DEVKIT-S-ch340-mirror"
+      (project "panelization"
+        (path "/59a615f3-0e3a-43f4-a782-84f1af971154/06b7eb7f-1fd7-4161-9c4c-0f364271d469"
+          (reference "JP3") (unit 1)
+        )
+      )
+      (project "L"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "JP3") (unit 1)
         )
@@ -20191,7 +20221,12 @@
     )
     (pin "1" (uuid fe2ae437-7b9a-4d0d-849b-c721382ce089))
     (instances
-      (project "ESP32-DEVKIT-S-ch340-mirror"
+      (project "panelization"
+        (path "/59a615f3-0e3a-43f4-a782-84f1af971154/06b7eb7f-1fd7-4161-9c4c-0f364271d469"
+          (reference "#GND064") (unit 1)
+        )
+      )
+      (project "L"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#GND064") (unit 1)
         )
@@ -20216,7 +20251,12 @@
     )
     (pin "1" (uuid 64045fc7-e4a9-4a9a-9a12-ce8360c9188d))
     (instances
-      (project "ESP32-DEVKIT-S-ch340-mirror"
+      (project "panelization"
+        (path "/59a615f3-0e3a-43f4-a782-84f1af971154/06b7eb7f-1fd7-4161-9c4c-0f364271d469"
+          (reference "#GND055") (unit 1)
+        )
+      )
+      (project "L"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#GND055") (unit 1)
         )
@@ -20246,7 +20286,12 @@
     (pin "2" (uuid 61cc51c7-2613-41ba-821a-3eb6de4691a5))
     (pin "6" (uuid bb24c043-24c8-4f1e-bae7-9047c0a510e3))
     (instances
-      (project "ESP32-DEVKIT-S-ch340-mirror"
+      (project "panelization"
+        (path "/59a615f3-0e3a-43f4-a782-84f1af971154/06b7eb7f-1fd7-4161-9c4c-0f364271d469"
+          (reference "Q4") (unit 2)
+        )
+      )
+      (project "L"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "Q4") (unit 2)
         )
@@ -20271,7 +20316,12 @@
     )
     (pin "1" (uuid b752f5eb-4e17-4e4a-adc4-40383d01b865))
     (instances
-      (project "ESP32-DEVKIT-S-ch340-mirror"
+      (project "panelization"
+        (path "/59a615f3-0e3a-43f4-a782-84f1af971154/06b7eb7f-1fd7-4161-9c4c-0f364271d469"
+          (reference "#GND058") (unit 1)
+        )
+      )
+      (project "L"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#GND058") (unit 1)
         )
@@ -20296,7 +20346,12 @@
     )
     (pin "1" (uuid d59b00aa-e403-48c8-b670-0b5ebdf853f4))
     (instances
-      (project "ESP32-DEVKIT-S-ch340-mirror"
+      (project "panelization"
+        (path "/59a615f3-0e3a-43f4-a782-84f1af971154/06b7eb7f-1fd7-4161-9c4c-0f364271d469"
+          (reference "#GND057") (unit 1)
+        )
+      )
+      (project "L"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#GND057") (unit 1)
         )
@@ -20326,7 +20381,12 @@
     (pin "2" (uuid 692e9c7f-dd67-4f2b-a589-64b7de5ff417))
     (pin "6" (uuid 36d50ebd-14ed-46d3-b9f1-0970d8d2b6aa))
     (instances
-      (project "ESP32-DEVKIT-S-ch340-mirror"
+      (project "panelization"
+        (path "/59a615f3-0e3a-43f4-a782-84f1af971154/06b7eb7f-1fd7-4161-9c4c-0f364271d469"
+          (reference "Q4") (unit 1)
+        )
+      )
+      (project "L"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "Q4") (unit 1)
         )
@@ -20351,7 +20411,12 @@
     )
     (pin "1" (uuid 5c04950a-bd07-473a-a294-8337d7806fc4))
     (instances
-      (project "ESP32-DEVKIT-S-ch340-mirror"
+      (project "panelization"
+        (path "/59a615f3-0e3a-43f4-a782-84f1af971154/06b7eb7f-1fd7-4161-9c4c-0f364271d469"
+          (reference "#GND063") (unit 1)
+        )
+      )
+      (project "L"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#GND063") (unit 1)
         )
@@ -20376,7 +20441,12 @@
     )
     (pin "1" (uuid 0ecaa5ff-c838-4c8c-a51d-7b70c988b39c))
     (instances
-      (project "ESP32-DEVKIT-S-ch340-mirror"
+      (project "panelization"
+        (path "/59a615f3-0e3a-43f4-a782-84f1af971154/06b7eb7f-1fd7-4161-9c4c-0f364271d469"
+          (reference "#GND069") (unit 1)
+        )
+      )
+      (project "L"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#GND069") (unit 1)
         )
@@ -20420,7 +20490,12 @@
     (pin "8" (uuid 2c3fe303-08f5-44f8-8c56-e53086ece422))
     (pin "9" (uuid 838a414c-0d03-4cd9-8ddf-c7ae35e15380))
     (instances
-      (project "ESP32-DEVKIT-S-ch340-mirror"
+      (project "panelization"
+        (path "/59a615f3-0e3a-43f4-a782-84f1af971154/06b7eb7f-1fd7-4161-9c4c-0f364271d469"
+          (reference "J12") (unit 1)
+        )
+      )
+      (project "L"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "J12") (unit 1)
         )
@@ -20446,7 +20521,12 @@
     (pin "1" (uuid 873624c9-7578-4367-b044-245743ccdbd8))
     (pin "2" (uuid 18943319-0818-4a3e-b684-28b3c96bf5dc))
     (instances
-      (project "ESP32-DEVKIT-S-ch340-mirror"
+      (project "panelization"
+        (path "/59a615f3-0e3a-43f4-a782-84f1af971154/06b7eb7f-1fd7-4161-9c4c-0f364271d469"
+          (reference "C26") (unit 1)
+        )
+      )
+      (project "L"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "C26") (unit 1)
         )
@@ -20471,7 +20551,12 @@
     )
     (pin "1" (uuid 80498d3e-8ef7-4ab2-ab6b-9de136810b37))
     (instances
-      (project "ESP32-DEVKIT-S-ch340-mirror"
+      (project "panelization"
+        (path "/59a615f3-0e3a-43f4-a782-84f1af971154/06b7eb7f-1fd7-4161-9c4c-0f364271d469"
+          (reference "#GND084") (unit 1)
+        )
+      )
+      (project "L"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#GND084") (unit 1)
         )
@@ -20496,7 +20581,12 @@
     )
     (pin "1" (uuid 58e15e79-6a16-4711-8740-e34066ff69a2))
     (instances
-      (project "ESP32-DEVKIT-S-ch340-mirror"
+      (project "panelization"
+        (path "/59a615f3-0e3a-43f4-a782-84f1af971154/06b7eb7f-1fd7-4161-9c4c-0f364271d469"
+          (reference "#GND066") (unit 1)
+        )
+      )
+      (project "L"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#GND066") (unit 1)
         )
@@ -20521,7 +20611,12 @@
     )
     (pin "1" (uuid 5943f68b-3110-4a05-a6ab-6af0fe60ead0))
     (instances
-      (project "ESP32-DEVKIT-S-ch340-mirror"
+      (project "panelization"
+        (path "/59a615f3-0e3a-43f4-a782-84f1af971154/06b7eb7f-1fd7-4161-9c4c-0f364271d469"
+          (reference "#SUPPLY057") (unit 1)
+        )
+      )
+      (project "L"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#SUPPLY057") (unit 1)
         )
@@ -20546,7 +20641,12 @@
     )
     (pin "1" (uuid 2b5848b0-f006-4eaf-9e77-30a4e798d794))
     (instances
-      (project "ESP32-DEVKIT-S-ch340-mirror"
+      (project "panelization"
+        (path "/59a615f3-0e3a-43f4-a782-84f1af971154/06b7eb7f-1fd7-4161-9c4c-0f364271d469"
+          (reference "#GND089") (unit 1)
+        )
+      )
+      (project "L"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#GND089") (unit 1)
         )
@@ -20572,7 +20672,12 @@
     (pin "1" (uuid b28c2e8b-aef3-4ec8-8277-c37d1b6c2b20))
     (pin "2" (uuid 5bfd91aa-704a-40d1-a9b2-aeeae8d9b44c))
     (instances
-      (project "ESP32-DEVKIT-S-ch340-mirror"
+      (project "panelization"
+        (path "/59a615f3-0e3a-43f4-a782-84f1af971154/06b7eb7f-1fd7-4161-9c4c-0f364271d469"
+          (reference "R35") (unit 1)
+        )
+      )
+      (project "L"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "R35") (unit 1)
         )
@@ -20598,7 +20703,12 @@
     (pin "1" (uuid 31554dfc-6c4d-4e21-86bf-5d69cf133e15))
     (pin "2" (uuid 6603d9f4-b420-4f98-8f0f-3dfc9b0138ac))
     (instances
-      (project "ESP32-DEVKIT-S-ch340-mirror"
+      (project "panelization"
+        (path "/59a615f3-0e3a-43f4-a782-84f1af971154/06b7eb7f-1fd7-4161-9c4c-0f364271d469"
+          (reference "C22") (unit 1)
+        )
+      )
+      (project "L"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "C22") (unit 1)
         )
@@ -20623,7 +20733,12 @@
     )
     (pin "1" (uuid f26eba30-c762-4195-94c1-46e3644b08f6))
     (instances
-      (project "ESP32-DEVKIT-S-ch340-mirror"
+      (project "panelization"
+        (path "/59a615f3-0e3a-43f4-a782-84f1af971154/06b7eb7f-1fd7-4161-9c4c-0f364271d469"
+          (reference "#GND052") (unit 1)
+        )
+      )
+      (project "L"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#GND052") (unit 1)
         )
@@ -20648,7 +20763,12 @@
     )
     (pin "1" (uuid ab54e712-5e30-4e01-89d2-90f7760f6ccb))
     (instances
-      (project "ESP32-DEVKIT-S-ch340-mirror"
+      (project "panelization"
+        (path "/59a615f3-0e3a-43f4-a782-84f1af971154/06b7eb7f-1fd7-4161-9c4c-0f364271d469"
+          (reference "#GND072") (unit 1)
+        )
+      )
+      (project "L"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#GND072") (unit 1)
         )
@@ -20673,7 +20793,12 @@
     )
     (pin "1" (uuid 90a706d6-f53b-4e20-83b0-ddfad47a5115))
     (instances
-      (project "ESP32-DEVKIT-S-ch340-mirror"
+      (project "panelization"
+        (path "/59a615f3-0e3a-43f4-a782-84f1af971154/06b7eb7f-1fd7-4161-9c4c-0f364271d469"
+          (reference "#SUPPLY046") (unit 1)
+        )
+      )
+      (project "L"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#SUPPLY046") (unit 1)
         )
@@ -20698,7 +20823,12 @@
     )
     (pin "1" (uuid 7c08d6b4-dfe7-4d3f-a770-e051e8368829))
     (instances
-      (project "ESP32-DEVKIT-S-ch340-mirror"
+      (project "panelization"
+        (path "/59a615f3-0e3a-43f4-a782-84f1af971154/06b7eb7f-1fd7-4161-9c4c-0f364271d469"
+          (reference "#GND067") (unit 1)
+        )
+      )
+      (project "L"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#GND067") (unit 1)
         )
@@ -20723,7 +20853,12 @@
     )
     (pin "1" (uuid 64074898-6e0d-471e-81a9-93c67ddd75f1))
     (instances
-      (project "ESP32-DEVKIT-S-ch340-mirror"
+      (project "panelization"
+        (path "/59a615f3-0e3a-43f4-a782-84f1af971154/06b7eb7f-1fd7-4161-9c4c-0f364271d469"
+          (reference "#SUPPLY058") (unit 1)
+        )
+      )
+      (project "L"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#SUPPLY058") (unit 1)
         )
@@ -20749,7 +20884,12 @@
     (pin "A" (uuid 60fece8e-344d-443d-ae0a-8b722e71c017))
     (pin "C" (uuid 6ea47811-391e-4532-838c-a8d24dacb716))
     (instances
-      (project "ESP32-DEVKIT-S-ch340-mirror"
+      (project "panelization"
+        (path "/59a615f3-0e3a-43f4-a782-84f1af971154/06b7eb7f-1fd7-4161-9c4c-0f364271d469"
+          (reference "D7") (unit 1)
+        )
+      )
+      (project "L"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "D7") (unit 1)
         )
@@ -20774,7 +20914,12 @@
     )
     (pin "1" (uuid 4abfbc8b-c4c5-40eb-92fd-07dc9599fdfd))
     (instances
-      (project "ESP32-DEVKIT-S-ch340-mirror"
+      (project "panelization"
+        (path "/59a615f3-0e3a-43f4-a782-84f1af971154/06b7eb7f-1fd7-4161-9c4c-0f364271d469"
+          (reference "#GND071") (unit 1)
+        )
+      )
+      (project "L"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#GND071") (unit 1)
         )
@@ -20800,7 +20945,12 @@
     (pin "1" (uuid 7946e6b1-8793-4e1f-9650-9fe924aa78d4))
     (pin "2" (uuid 684ad0a7-0e6b-4b10-bac6-35178685c42c))
     (instances
-      (project "ESP32-DEVKIT-S-ch340-mirror"
+      (project "panelization"
+        (path "/59a615f3-0e3a-43f4-a782-84f1af971154/06b7eb7f-1fd7-4161-9c4c-0f364271d469"
+          (reference "R55") (unit 1)
+        )
+      )
+      (project "L"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "R55") (unit 1)
         )
@@ -20826,7 +20976,12 @@
     (pin "1" (uuid d0285aca-55d6-4f00-8d8a-4e7565e3b149))
     (pin "2" (uuid 5eb28b2f-59a6-40f6-a1b0-ece84e1364d6))
     (instances
-      (project "ESP32-DEVKIT-S-ch340-mirror"
+      (project "panelization"
+        (path "/59a615f3-0e3a-43f4-a782-84f1af971154/06b7eb7f-1fd7-4161-9c4c-0f364271d469"
+          (reference "C19") (unit 1)
+        )
+      )
+      (project "L"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "C19") (unit 1)
         )
@@ -20851,7 +21006,12 @@
     )
     (pin "1" (uuid b21826f8-b846-4c07-80ac-6108d57de795))
     (instances
-      (project "ESP32-DEVKIT-S-ch340-mirror"
+      (project "panelization"
+        (path "/59a615f3-0e3a-43f4-a782-84f1af971154/06b7eb7f-1fd7-4161-9c4c-0f364271d469"
+          (reference "#GND061") (unit 1)
+        )
+      )
+      (project "L"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#GND061") (unit 1)
         )
@@ -20875,7 +21035,12 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
-      (project "ESP32-DEVKIT-S-ch340-mirror"
+      (project "panelization"
+        (path "/59a615f3-0e3a-43f4-a782-84f1af971154/06b7eb7f-1fd7-4161-9c4c-0f364271d469"
+          (reference "LOGO4") (unit 1)
+        )
+      )
+      (project "L"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "LOGO4") (unit 1)
         )
@@ -20900,7 +21065,12 @@
     )
     (pin "1" (uuid e4b157e7-4581-4d95-9f54-0e5f4d204679))
     (instances
-      (project "ESP32-DEVKIT-S-ch340-mirror"
+      (project "panelization"
+        (path "/59a615f3-0e3a-43f4-a782-84f1af971154/06b7eb7f-1fd7-4161-9c4c-0f364271d469"
+          (reference "#GND077") (unit 1)
+        )
+      )
+      (project "L"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#GND077") (unit 1)
         )
@@ -20925,7 +21095,12 @@
     )
     (pin "1" (uuid 144b7c24-abf5-4c76-b306-f59d02beafc1))
     (instances
-      (project "ESP32-DEVKIT-S-ch340-mirror"
+      (project "panelization"
+        (path "/59a615f3-0e3a-43f4-a782-84f1af971154/06b7eb7f-1fd7-4161-9c4c-0f364271d469"
+          (reference "#GND070") (unit 1)
+        )
+      )
+      (project "L"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#GND070") (unit 1)
         )
@@ -20952,7 +21127,12 @@
     (pin "2" (uuid 564723da-d6ec-451e-87e0-901d8efe7a3d))
     (pin "3" (uuid 524fecec-0417-4a68-bf9f-f2ac827a5f44))
     (instances
-      (project "ESP32-DEVKIT-S-ch340-mirror"
+      (project "panelization"
+        (path "/59a615f3-0e3a-43f4-a782-84f1af971154/06b7eb7f-1fd7-4161-9c4c-0f364271d469"
+          (reference "Q3") (unit 1)
+        )
+      )
+      (project "L"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "Q3") (unit 1)
         )
@@ -20981,7 +21161,12 @@
     (pin "4" (uuid f765f651-2e78-4303-8304-750892597970))
     (pin "5" (uuid aa044758-9078-4428-815f-27fbc7cc95a2))
     (instances
-      (project "ESP32-DEVKIT-S-ch340-mirror"
+      (project "panelization"
+        (path "/59a615f3-0e3a-43f4-a782-84f1af971154/06b7eb7f-1fd7-4161-9c4c-0f364271d469"
+          (reference "U14") (unit 1)
+        )
+      )
+      (project "L"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "U14") (unit 1)
         )
@@ -21007,7 +21192,12 @@
     (pin "1" (uuid e13a8fb8-d3dc-49d4-8232-26d97b3820d0))
     (pin "2" (uuid b763f248-e27d-4538-987d-804b8d7ce3df))
     (instances
-      (project "ESP32-DEVKIT-S-ch340-mirror"
+      (project "panelization"
+        (path "/59a615f3-0e3a-43f4-a782-84f1af971154/06b7eb7f-1fd7-4161-9c4c-0f364271d469"
+          (reference "R36") (unit 1)
+        )
+      )
+      (project "L"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "R36") (unit 1)
         )
@@ -21033,7 +21223,12 @@
     (pin "1" (uuid 300f8584-3106-40d1-b9ad-fa36ff700041))
     (pin "2" (uuid 93301bcb-60e4-477b-b70b-91c38d91149e))
     (instances
-      (project "ESP32-DEVKIT-S-ch340-mirror"
+      (project "panelization"
+        (path "/59a615f3-0e3a-43f4-a782-84f1af971154/06b7eb7f-1fd7-4161-9c4c-0f364271d469"
+          (reference "R37") (unit 1)
+        )
+      )
+      (project "L"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "R37") (unit 1)
         )
@@ -21058,7 +21253,12 @@
     )
     (pin "1" (uuid 75bce5f7-ad02-41ac-8a92-6491a48a0786))
     (instances
-      (project "ESP32-DEVKIT-S-ch340-mirror"
+      (project "panelization"
+        (path "/59a615f3-0e3a-43f4-a782-84f1af971154/06b7eb7f-1fd7-4161-9c4c-0f364271d469"
+          (reference "#GND073") (unit 1)
+        )
+      )
+      (project "L"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#GND073") (unit 1)
         )
@@ -21083,7 +21283,12 @@
     )
     (pin "1" (uuid f0bb2d5e-9854-4652-a359-c733b6a84390))
     (instances
-      (project "ESP32-DEVKIT-S-ch340-mirror"
+      (project "panelization"
+        (path "/59a615f3-0e3a-43f4-a782-84f1af971154/06b7eb7f-1fd7-4161-9c4c-0f364271d469"
+          (reference "#GND075") (unit 1)
+        )
+      )
+      (project "L"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#GND075") (unit 1)
         )
@@ -21109,7 +21314,12 @@
     (pin "1" (uuid 8f1df453-f67f-4d6e-af7e-5ebe8505cb0c))
     (pin "2" (uuid 628daacc-a148-4101-a774-956d15ed8a1c))
     (instances
-      (project "ESP32-DEVKIT-S-ch340-mirror"
+      (project "panelization"
+        (path "/59a615f3-0e3a-43f4-a782-84f1af971154/06b7eb7f-1fd7-4161-9c4c-0f364271d469"
+          (reference "R38") (unit 1)
+        )
+      )
+      (project "L"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "R38") (unit 1)
         )
@@ -21134,7 +21344,12 @@
     )
     (pin "1" (uuid b8029d92-8f99-43f7-b897-4a654934bddd))
     (instances
-      (project "ESP32-DEVKIT-S-ch340-mirror"
+      (project "panelization"
+        (path "/59a615f3-0e3a-43f4-a782-84f1af971154/06b7eb7f-1fd7-4161-9c4c-0f364271d469"
+          (reference "#SUPPLY051") (unit 1)
+        )
+      )
+      (project "L"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#SUPPLY051") (unit 1)
         )
@@ -21159,7 +21374,12 @@
     )
     (pin "1" (uuid cf577d00-8243-4e58-80d3-f26066ae08ad))
     (instances
-      (project "ESP32-DEVKIT-S-ch340-mirror"
+      (project "panelization"
+        (path "/59a615f3-0e3a-43f4-a782-84f1af971154/06b7eb7f-1fd7-4161-9c4c-0f364271d469"
+          (reference "#GND047") (unit 1)
+        )
+      )
+      (project "L"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#GND047") (unit 1)
         )
@@ -21187,7 +21407,12 @@
     (pin "NC1" (uuid 86b11996-2284-4f9c-9b85-93d4399a3a28))
     (pin "NC2" (uuid 1e71230e-b310-40dd-bcf4-e43af517e9e8))
     (instances
-      (project "ESP32-DEVKIT-S-ch340-mirror"
+      (project "panelization"
+        (path "/59a615f3-0e3a-43f4-a782-84f1af971154/06b7eb7f-1fd7-4161-9c4c-0f364271d469"
+          (reference "J8") (unit 1)
+        )
+      )
+      (project "L"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "J8") (unit 1)
         )
@@ -21212,7 +21437,12 @@
     )
     (pin "1" (uuid 79a9cf34-df50-42c4-add8-60f1b41c205a))
     (instances
-      (project "ESP32-DEVKIT-S-ch340-mirror"
+      (project "panelization"
+        (path "/59a615f3-0e3a-43f4-a782-84f1af971154/06b7eb7f-1fd7-4161-9c4c-0f364271d469"
+          (reference "#GND085") (unit 1)
+        )
+      )
+      (project "L"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#GND085") (unit 1)
         )
@@ -21237,7 +21467,12 @@
     )
     (pin "1" (uuid ad7d33e6-da41-4c7d-a310-d6816367af43))
     (instances
-      (project "ESP32-DEVKIT-S-ch340-mirror"
+      (project "panelization"
+        (path "/59a615f3-0e3a-43f4-a782-84f1af971154/06b7eb7f-1fd7-4161-9c4c-0f364271d469"
+          (reference "#GND046") (unit 1)
+        )
+      )
+      (project "L"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#GND046") (unit 1)
         )
@@ -21277,7 +21512,12 @@
     (pin "8" (uuid fba4c088-ea0b-4894-bb20-2c5e5b2e823d))
     (pin "9" (uuid 95449070-b80a-497c-b4f5-165aac487715))
     (instances
-      (project "ESP32-DEVKIT-S-ch340-mirror"
+      (project "panelization"
+        (path "/59a615f3-0e3a-43f4-a782-84f1af971154/06b7eb7f-1fd7-4161-9c4c-0f364271d469"
+          (reference "U19") (unit 1)
+        )
+      )
+      (project "L"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "U19") (unit 1)
         )
@@ -21303,7 +21543,12 @@
     (pin "1" (uuid 9c5a8e02-9655-47f3-817f-9e4df95e2214))
     (pin "2" (uuid 2a9d2ad1-18d9-418f-9c53-d15aee3b8142))
     (instances
-      (project "ESP32-DEVKIT-S-ch340-mirror"
+      (project "panelization"
+        (path "/59a615f3-0e3a-43f4-a782-84f1af971154/06b7eb7f-1fd7-4161-9c4c-0f364271d469"
+          (reference "JP4") (unit 1)
+        )
+      )
+      (project "L"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "JP4") (unit 1)
         )
@@ -21329,7 +21574,12 @@
     (pin "1" (uuid a84a390f-4cb8-4489-96eb-f1260817eb1d))
     (pin "2" (uuid 3f48f599-b279-4c9e-9678-b2005bf8c588))
     (instances
-      (project "ESP32-DEVKIT-S-ch340-mirror"
+      (project "panelization"
+        (path "/59a615f3-0e3a-43f4-a782-84f1af971154/06b7eb7f-1fd7-4161-9c4c-0f364271d469"
+          (reference "R39") (unit 1)
+        )
+      )
+      (project "L"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "R39") (unit 1)
         )
@@ -21354,7 +21604,12 @@
     )
     (pin "1" (uuid b4f19185-3205-4248-a4b9-3dea95c1d513))
     (instances
-      (project "ESP32-DEVKIT-S-ch340-mirror"
+      (project "panelization"
+        (path "/59a615f3-0e3a-43f4-a782-84f1af971154/06b7eb7f-1fd7-4161-9c4c-0f364271d469"
+          (reference "#GND068") (unit 1)
+        )
+      )
+      (project "L"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#GND068") (unit 1)
         )
@@ -21380,7 +21635,12 @@
     (pin "1" (uuid 0b85abf5-a8e0-498d-ad3e-c7f8793ac4c7))
     (pin "2" (uuid 2be5d9cd-5154-4dbd-8552-1a72846dd4b3))
     (instances
-      (project "ESP32-DEVKIT-S-ch340-mirror"
+      (project "panelization"
+        (path "/59a615f3-0e3a-43f4-a782-84f1af971154/06b7eb7f-1fd7-4161-9c4c-0f364271d469"
+          (reference "R56") (unit 1)
+        )
+      )
+      (project "L"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "R56") (unit 1)
         )
@@ -21405,7 +21665,12 @@
     )
     (pin "1" (uuid e60fd348-fb29-4221-a717-49da0c05a897))
     (instances
-      (project "ESP32-DEVKIT-S-ch340-mirror"
+      (project "panelization"
+        (path "/59a615f3-0e3a-43f4-a782-84f1af971154/06b7eb7f-1fd7-4161-9c4c-0f364271d469"
+          (reference "#GND079") (unit 1)
+        )
+      )
+      (project "L"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#GND079") (unit 1)
         )
@@ -21430,7 +21695,12 @@
     )
     (pin "1" (uuid 4cbe8472-bf80-4374-a2a4-ed18e2c93268))
     (instances
-      (project "ESP32-DEVKIT-S-ch340-mirror"
+      (project "panelization"
+        (path "/59a615f3-0e3a-43f4-a782-84f1af971154/06b7eb7f-1fd7-4161-9c4c-0f364271d469"
+          (reference "#SUPPLY059") (unit 1)
+        )
+      )
+      (project "L"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#SUPPLY059") (unit 1)
         )
@@ -21455,7 +21725,12 @@
     )
     (pin "1" (uuid c8cb8d3f-a3e8-4e59-a2be-89d104f12e1b))
     (instances
-      (project "ESP32-DEVKIT-S-ch340-mirror"
+      (project "panelization"
+        (path "/59a615f3-0e3a-43f4-a782-84f1af971154/06b7eb7f-1fd7-4161-9c4c-0f364271d469"
+          (reference "#SUPPLY060") (unit 1)
+        )
+      )
+      (project "L"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#SUPPLY060") (unit 1)
         )
@@ -21479,7 +21754,12 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
-      (project "ESP32-DEVKIT-S-ch340-mirror"
+      (project "panelization"
+        (path "/59a615f3-0e3a-43f4-a782-84f1af971154/06b7eb7f-1fd7-4161-9c4c-0f364271d469"
+          (reference "LOGO3") (unit 1)
+        )
+      )
+      (project "L"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "LOGO3") (unit 1)
         )
@@ -21504,7 +21784,12 @@
     )
     (pin "1" (uuid a5939d2b-53b1-4095-a606-380948f26e24))
     (instances
-      (project "ESP32-DEVKIT-S-ch340-mirror"
+      (project "panelization"
+        (path "/59a615f3-0e3a-43f4-a782-84f1af971154/06b7eb7f-1fd7-4161-9c4c-0f364271d469"
+          (reference "#SUPPLY056") (unit 1)
+        )
+      )
+      (project "L"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#SUPPLY056") (unit 1)
         )
@@ -21530,7 +21815,12 @@
     (pin "A" (uuid f81708dc-4aec-4fd3-9ff6-70960b9b5d1f))
     (pin "C" (uuid 939b2da5-74a1-4c09-b839-a5dfa8dd96d1))
     (instances
-      (project "ESP32-DEVKIT-S-ch340-mirror"
+      (project "panelization"
+        (path "/59a615f3-0e3a-43f4-a782-84f1af971154/06b7eb7f-1fd7-4161-9c4c-0f364271d469"
+          (reference "D5") (unit 1)
+        )
+      )
+      (project "L"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "D5") (unit 1)
         )
@@ -21555,7 +21845,12 @@
     )
     (pin "1" (uuid b9f8d9ad-db3d-4415-b3a9-96d6794480ed))
     (instances
-      (project "ESP32-DEVKIT-S-ch340-mirror"
+      (project "panelization"
+        (path "/59a615f3-0e3a-43f4-a782-84f1af971154/06b7eb7f-1fd7-4161-9c4c-0f364271d469"
+          (reference "#GND078") (unit 1)
+        )
+      )
+      (project "L"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#GND078") (unit 1)
         )
@@ -21583,7 +21878,12 @@
     (pin "2" (uuid d335d9f6-86e6-4598-9f4b-043ea975d146))
     (pin "3" (uuid dcd58792-c4f7-454a-8fc5-42223d6566a1))
     (instances
-      (project "ESP32-DEVKIT-S-ch340-mirror"
+      (project "panelization"
+        (path "/59a615f3-0e3a-43f4-a782-84f1af971154/06b7eb7f-1fd7-4161-9c4c-0f364271d469"
+          (reference "SW2") (unit 1)
+        )
+      )
+      (project "L"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "SW2") (unit 1)
         )
@@ -21608,7 +21908,12 @@
     )
     (pin "1" (uuid 482cdb59-5b08-4ea3-8695-218c06c07324))
     (instances
-      (project "ESP32-DEVKIT-S-ch340-mirror"
+      (project "panelization"
+        (path "/59a615f3-0e3a-43f4-a782-84f1af971154/06b7eb7f-1fd7-4161-9c4c-0f364271d469"
+          (reference "#GND048") (unit 1)
+        )
+      )
+      (project "L"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#GND048") (unit 1)
         )
@@ -21634,7 +21939,12 @@
     (pin "1" (uuid 96e03617-3c9f-4055-99d2-6c887512e081))
     (pin "2" (uuid 483431b0-42d9-4772-b910-7d7debe2d055))
     (instances
-      (project "ESP32-DEVKIT-S-ch340-mirror"
+      (project "panelization"
+        (path "/59a615f3-0e3a-43f4-a782-84f1af971154/06b7eb7f-1fd7-4161-9c4c-0f364271d469"
+          (reference "R59") (unit 1)
+        )
+      )
+      (project "L"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "R59") (unit 1)
         )
@@ -21659,7 +21969,12 @@
     )
     (pin "1" (uuid d461a11c-1068-4796-ae03-50efaa92f97d))
     (instances
-      (project "ESP32-DEVKIT-S-ch340-mirror"
+      (project "panelization"
+        (path "/59a615f3-0e3a-43f4-a782-84f1af971154/06b7eb7f-1fd7-4161-9c4c-0f364271d469"
+          (reference "#SUPPLY054") (unit 1)
+        )
+      )
+      (project "L"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#SUPPLY054") (unit 1)
         )
@@ -21685,7 +22000,12 @@
     (pin "1" (uuid 032abb66-5b55-48a9-ab7a-49d28526727f))
     (pin "2" (uuid 69a6a740-2999-4acc-a7e5-954dcdb09a99))
     (instances
-      (project "ESP32-DEVKIT-S-ch340-mirror"
+      (project "panelization"
+        (path "/59a615f3-0e3a-43f4-a782-84f1af971154/06b7eb7f-1fd7-4161-9c4c-0f364271d469"
+          (reference "R61") (unit 1)
+        )
+      )
+      (project "L"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "R61") (unit 1)
         )
@@ -21711,7 +22031,12 @@
     (pin "1" (uuid 521e4a21-f0b7-4658-9d34-df3f5fe5b2aa))
     (pin "2" (uuid d460eca2-8c79-4d0e-a590-9591c9e17188))
     (instances
-      (project "ESP32-DEVKIT-S-ch340-mirror"
+      (project "panelization"
+        (path "/59a615f3-0e3a-43f4-a782-84f1af971154/06b7eb7f-1fd7-4161-9c4c-0f364271d469"
+          (reference "R42") (unit 1)
+        )
+      )
+      (project "L"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "R42") (unit 1)
         )
@@ -21737,7 +22062,12 @@
     (pin "1" (uuid c5883704-ba04-4ddf-b8ea-c3434f59dc84))
     (pin "2" (uuid 90ea295e-04ea-4f4e-a3ad-5768d69620fb))
     (instances
-      (project "ESP32-DEVKIT-S-ch340-mirror"
+      (project "panelization"
+        (path "/59a615f3-0e3a-43f4-a782-84f1af971154/06b7eb7f-1fd7-4161-9c4c-0f364271d469"
+          (reference "C23") (unit 1)
+        )
+      )
+      (project "L"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "C23") (unit 1)
         )
@@ -21762,7 +22092,12 @@
     )
     (pin "1" (uuid 827ec872-84e7-490f-bd3a-26a6735b431d))
     (instances
-      (project "ESP32-DEVKIT-S-ch340-mirror"
+      (project "panelization"
+        (path "/59a615f3-0e3a-43f4-a782-84f1af971154/06b7eb7f-1fd7-4161-9c4c-0f364271d469"
+          (reference "#SUPPLY045") (unit 1)
+        )
+      )
+      (project "L"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#SUPPLY045") (unit 1)
         )
@@ -21788,7 +22123,12 @@
     (pin "1" (uuid c1492790-3c34-4e9d-a927-f033ea09d59e))
     (pin "2" (uuid 03e8b557-5c36-4003-a2ce-bb6fb510842a))
     (instances
-      (project "ESP32-DEVKIT-S-ch340-mirror"
+      (project "panelization"
+        (path "/59a615f3-0e3a-43f4-a782-84f1af971154/06b7eb7f-1fd7-4161-9c4c-0f364271d469"
+          (reference "R53") (unit 1)
+        )
+      )
+      (project "L"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "R53") (unit 1)
         )
@@ -21814,7 +22154,12 @@
     (pin "1" (uuid b039ce96-7cf8-4a64-8ebc-c4508fd12fef))
     (pin "2" (uuid 51e8944f-af7a-461a-8974-6fab7aa90828))
     (instances
-      (project "ESP32-DEVKIT-S-ch340-mirror"
+      (project "panelization"
+        (path "/59a615f3-0e3a-43f4-a782-84f1af971154/06b7eb7f-1fd7-4161-9c4c-0f364271d469"
+          (reference "C21") (unit 1)
+        )
+      )
+      (project "L"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "C21") (unit 1)
         )
@@ -21840,7 +22185,12 @@
     (pin "1" (uuid 495a2e15-e443-4f48-80ed-5beb13e05b1e))
     (pin "2" (uuid 571be013-e749-4fda-b17b-b0cd2e2291f9))
     (instances
-      (project "ESP32-DEVKIT-S-ch340-mirror"
+      (project "panelization"
+        (path "/59a615f3-0e3a-43f4-a782-84f1af971154/06b7eb7f-1fd7-4161-9c4c-0f364271d469"
+          (reference "R45") (unit 1)
+        )
+      )
+      (project "L"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "R45") (unit 1)
         )
@@ -21866,7 +22216,12 @@
     (pin "A" (uuid 2a4f4a5e-391e-45a8-aa29-2ed166441cac))
     (pin "C" (uuid 1fa304fa-02e9-4546-86ce-4bef93753fb0))
     (instances
-      (project "ESP32-DEVKIT-S-ch340-mirror"
+      (project "panelization"
+        (path "/59a615f3-0e3a-43f4-a782-84f1af971154/06b7eb7f-1fd7-4161-9c4c-0f364271d469"
+          (reference "D8") (unit 1)
+        )
+      )
+      (project "L"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "D8") (unit 1)
         )
@@ -21898,7 +22253,12 @@
     (pin "4" (uuid 50fbef9e-5c69-4332-935b-4d9eb3e8f630))
     (pin "5" (uuid c7d75b36-1a17-4198-b1bc-f1f1a1dd7e45))
     (instances
-      (project "ESP32-DEVKIT-S-ch340-mirror"
+      (project "panelization"
+        (path "/59a615f3-0e3a-43f4-a782-84f1af971154/06b7eb7f-1fd7-4161-9c4c-0f364271d469"
+          (reference "U12") (unit 1)
+        )
+      )
+      (project "L"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "U12") (unit 1)
         )
@@ -21923,7 +22283,12 @@
     )
     (pin "1" (uuid 110faa12-c93a-4999-a142-5099abadc2ed))
     (instances
-      (project "ESP32-DEVKIT-S-ch340-mirror"
+      (project "panelization"
+        (path "/59a615f3-0e3a-43f4-a782-84f1af971154/06b7eb7f-1fd7-4161-9c4c-0f364271d469"
+          (reference "#SUPPLY040") (unit 1)
+        )
+      )
+      (project "L"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#SUPPLY040") (unit 1)
         )
@@ -21957,7 +22322,12 @@
     (pin "8" (uuid 409178d3-1ff3-4107-a406-29d7695dca64))
     (pin "9" (uuid 055fe3c4-3a27-4c2a-86f3-a8d9c5bf894c))
     (instances
-      (project "ESP32-DEVKIT-S-ch340-mirror"
+      (project "panelization"
+        (path "/59a615f3-0e3a-43f4-a782-84f1af971154/06b7eb7f-1fd7-4161-9c4c-0f364271d469"
+          (reference "U15") (unit 1)
+        )
+      )
+      (project "L"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "U15") (unit 1)
         )
@@ -21983,7 +22353,12 @@
     (pin "1" (uuid ae079850-69dc-4dd4-bcc5-748ff79ea4d2))
     (pin "2" (uuid 962bfea6-1aff-433e-bb40-b780e31c474b))
     (instances
-      (project "ESP32-DEVKIT-S-ch340-mirror"
+      (project "panelization"
+        (path "/59a615f3-0e3a-43f4-a782-84f1af971154/06b7eb7f-1fd7-4161-9c4c-0f364271d469"
+          (reference "R49") (unit 1)
+        )
+      )
+      (project "L"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "R49") (unit 1)
         )
@@ -22027,7 +22402,12 @@
     (pin "8" (uuid 7f35991f-f540-4181-9b1c-f1723d1e5774))
     (pin "9" (uuid 72ebbbd6-e854-4a08-b44f-ec4e25b87528))
     (instances
-      (project "ESP32-DEVKIT-S-ch340-mirror"
+      (project "panelization"
+        (path "/59a615f3-0e3a-43f4-a782-84f1af971154/06b7eb7f-1fd7-4161-9c4c-0f364271d469"
+          (reference "J11") (unit 1)
+        )
+      )
+      (project "L"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "J11") (unit 1)
         )
@@ -22052,7 +22432,12 @@
     )
     (pin "1" (uuid 83cf8f5d-d5ca-43fb-b073-91bb2ca12e33))
     (instances
-      (project "ESP32-DEVKIT-S-ch340-mirror"
+      (project "panelization"
+        (path "/59a615f3-0e3a-43f4-a782-84f1af971154/06b7eb7f-1fd7-4161-9c4c-0f364271d469"
+          (reference "#GND059") (unit 1)
+        )
+      )
+      (project "L"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#GND059") (unit 1)
         )
@@ -22078,7 +22463,12 @@
     (pin "1" (uuid 9cbb5e29-ac7c-40ea-aad4-59a340205dcc))
     (pin "2" (uuid 598f5641-c2d6-48fc-89e2-0339feec6230))
     (instances
-      (project "ESP32-DEVKIT-S-ch340-mirror"
+      (project "panelization"
+        (path "/59a615f3-0e3a-43f4-a782-84f1af971154/06b7eb7f-1fd7-4161-9c4c-0f364271d469"
+          (reference "R34") (unit 1)
+        )
+      )
+      (project "L"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "R34") (unit 1)
         )
@@ -22103,7 +22493,12 @@
     )
     (pin "1" (uuid 86e68f3d-741d-45b0-a4ac-8cea438243f3))
     (instances
-      (project "ESP32-DEVKIT-S-ch340-mirror"
+      (project "panelization"
+        (path "/59a615f3-0e3a-43f4-a782-84f1af971154/06b7eb7f-1fd7-4161-9c4c-0f364271d469"
+          (reference "#SUPPLY047") (unit 1)
+        )
+      )
+      (project "L"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#SUPPLY047") (unit 1)
         )
@@ -22141,7 +22536,12 @@
     (pin "VBUS1" (uuid 36959e13-c5d6-42e4-a670-4cd0cafd0843))
     (pin "VBUS2" (uuid dc83c7bb-9e98-4c54-9b37-8a6b9d4f42f3))
     (instances
-      (project "ESP32-DEVKIT-S-ch340-mirror"
+      (project "panelization"
+        (path "/59a615f3-0e3a-43f4-a782-84f1af971154/06b7eb7f-1fd7-4161-9c4c-0f364271d469"
+          (reference "J9") (unit 1)
+        )
+      )
+      (project "L"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "J9") (unit 1)
         )
@@ -22166,7 +22566,12 @@
     )
     (pin "1" (uuid 8133ad15-08e0-4bc4-af9d-5d587c4d4aa7))
     (instances
-      (project "ESP32-DEVKIT-S-ch340-mirror"
+      (project "panelization"
+        (path "/59a615f3-0e3a-43f4-a782-84f1af971154/06b7eb7f-1fd7-4161-9c4c-0f364271d469"
+          (reference "#GND086") (unit 1)
+        )
+      )
+      (project "L"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#GND086") (unit 1)
         )
@@ -22191,7 +22596,12 @@
     )
     (pin "1" (uuid 2f84373c-7324-4a70-a9a0-5ffbf39b58e8))
     (instances
-      (project "ESP32-DEVKIT-S-ch340-mirror"
+      (project "panelization"
+        (path "/59a615f3-0e3a-43f4-a782-84f1af971154/06b7eb7f-1fd7-4161-9c4c-0f364271d469"
+          (reference "#GND051") (unit 1)
+        )
+      )
+      (project "L"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#GND051") (unit 1)
         )
@@ -22216,7 +22626,12 @@
     )
     (pin "1" (uuid da695105-f6c0-4594-8b40-9d8b34b07b48))
     (instances
-      (project "ESP32-DEVKIT-S-ch340-mirror"
+      (project "panelization"
+        (path "/59a615f3-0e3a-43f4-a782-84f1af971154/06b7eb7f-1fd7-4161-9c4c-0f364271d469"
+          (reference "#GND083") (unit 1)
+        )
+      )
+      (project "L"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#GND083") (unit 1)
         )
@@ -22241,7 +22656,12 @@
     )
     (pin "1" (uuid 338ba146-62f6-4809-a076-1e6c1840a149))
     (instances
-      (project "ESP32-DEVKIT-S-ch340-mirror"
+      (project "panelization"
+        (path "/59a615f3-0e3a-43f4-a782-84f1af971154/06b7eb7f-1fd7-4161-9c4c-0f364271d469"
+          (reference "#GND065") (unit 1)
+        )
+      )
+      (project "L"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#GND065") (unit 1)
         )
@@ -22267,7 +22687,12 @@
     (pin "1" (uuid 6ea4879f-720c-485c-b80e-542be0c9bf91))
     (pin "2" (uuid d9d88da9-0a3c-4a6c-a091-97e65efdf2e3))
     (instances
-      (project "ESP32-DEVKIT-S-ch340-mirror"
+      (project "panelization"
+        (path "/59a615f3-0e3a-43f4-a782-84f1af971154/06b7eb7f-1fd7-4161-9c4c-0f364271d469"
+          (reference "C18") (unit 1)
+        )
+      )
+      (project "L"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "C18") (unit 1)
         )
@@ -22292,7 +22717,12 @@
     )
     (pin "1" (uuid 39ac4199-50a1-4160-83da-8c837e9087d6))
     (instances
-      (project "ESP32-DEVKIT-S-ch340-mirror"
+      (project "panelization"
+        (path "/59a615f3-0e3a-43f4-a782-84f1af971154/06b7eb7f-1fd7-4161-9c4c-0f364271d469"
+          (reference "#SUPPLY052") (unit 1)
+        )
+      )
+      (project "L"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#SUPPLY052") (unit 1)
         )
@@ -22355,7 +22785,12 @@
     (pin "8" (uuid cde504cf-cc59-47eb-981d-37aea7e80457))
     (pin "9" (uuid 47b55989-28ad-400d-8a74-6935b002b2d8))
     (instances
-      (project "ESP32-DEVKIT-S-ch340-mirror"
+      (project "panelization"
+        (path "/59a615f3-0e3a-43f4-a782-84f1af971154/06b7eb7f-1fd7-4161-9c4c-0f364271d469"
+          (reference "U13") (unit 1)
+        )
+      )
+      (project "L"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "U13") (unit 1)
         )
@@ -22381,7 +22816,12 @@
     (pin "1" (uuid 5275ad6e-0c68-4202-b03d-52682b87dbbd))
     (pin "2" (uuid 91e013f0-7764-4b1f-9c85-3491e9866355))
     (instances
-      (project "ESP32-DEVKIT-S-ch340-mirror"
+      (project "panelization"
+        (path "/59a615f3-0e3a-43f4-a782-84f1af971154/06b7eb7f-1fd7-4161-9c4c-0f364271d469"
+          (reference "R47") (unit 1)
+        )
+      )
+      (project "L"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "R47") (unit 1)
         )
@@ -22406,7 +22846,12 @@
     )
     (pin "1" (uuid 7548296f-4d85-4bff-b3b2-55d89efd23e1))
     (instances
-      (project "ESP32-DEVKIT-S-ch340-mirror"
+      (project "panelization"
+        (path "/59a615f3-0e3a-43f4-a782-84f1af971154/06b7eb7f-1fd7-4161-9c4c-0f364271d469"
+          (reference "#SUPPLY038") (unit 1)
+        )
+      )
+      (project "L"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#SUPPLY038") (unit 1)
         )
@@ -22432,7 +22877,12 @@
     (pin "1" (uuid 150a82eb-c0fa-46c8-9948-12c9c6f737a6))
     (pin "2" (uuid dff25709-e0dc-4d03-a72b-9e33b9cd8d17))
     (instances
-      (project "ESP32-DEVKIT-S-ch340-mirror"
+      (project "panelization"
+        (path "/59a615f3-0e3a-43f4-a782-84f1af971154/06b7eb7f-1fd7-4161-9c4c-0f364271d469"
+          (reference "R41") (unit 1)
+        )
+      )
+      (project "L"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "R41") (unit 1)
         )
@@ -22458,7 +22908,12 @@
     (pin "1" (uuid 23da1399-e3fe-4f61-8a8a-e00890f9986e))
     (pin "2" (uuid e083ecce-9974-4484-bf59-ce6c207d6f3f))
     (instances
-      (project "ESP32-DEVKIT-S-ch340-mirror"
+      (project "panelization"
+        (path "/59a615f3-0e3a-43f4-a782-84f1af971154/06b7eb7f-1fd7-4161-9c4c-0f364271d469"
+          (reference "R44") (unit 1)
+        )
+      )
+      (project "L"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "R44") (unit 1)
         )
@@ -22483,7 +22938,12 @@
     )
     (pin "1" (uuid 89a723f0-d46e-4324-a63f-2dd147f4a828))
     (instances
-      (project "ESP32-DEVKIT-S-ch340-mirror"
+      (project "panelization"
+        (path "/59a615f3-0e3a-43f4-a782-84f1af971154/06b7eb7f-1fd7-4161-9c4c-0f364271d469"
+          (reference "#SUPPLY044") (unit 1)
+        )
+      )
+      (project "L"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#SUPPLY044") (unit 1)
         )
@@ -22509,7 +22969,12 @@
     (pin "1" (uuid cb873852-293e-46bb-8aa1-7fbe3fdfbee1))
     (pin "2" (uuid d0cc6bd8-d4ff-4f4c-8552-25a41830a4d7))
     (instances
-      (project "ESP32-DEVKIT-S-ch340-mirror"
+      (project "panelization"
+        (path "/59a615f3-0e3a-43f4-a782-84f1af971154/06b7eb7f-1fd7-4161-9c4c-0f364271d469"
+          (reference "C28") (unit 1)
+        )
+      )
+      (project "L"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "C28") (unit 1)
         )
@@ -22535,7 +23000,12 @@
     (pin "1" (uuid 6ecc7a82-b7c0-41d7-a5ce-476166040cad))
     (pin "2" (uuid 15a2d424-9ec4-4679-b602-f9743711497f))
     (instances
-      (project "ESP32-DEVKIT-S-ch340-mirror"
+      (project "panelization"
+        (path "/59a615f3-0e3a-43f4-a782-84f1af971154/06b7eb7f-1fd7-4161-9c4c-0f364271d469"
+          (reference "C20") (unit 1)
+        )
+      )
+      (project "L"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "C20") (unit 1)
         )
@@ -22579,7 +23049,12 @@
     (pin "8" (uuid c48edcf3-2488-4bfa-abf3-f577aa8204b3))
     (pin "9" (uuid 54c5ef1b-e45b-435d-bfb6-09ed52c1d465))
     (instances
-      (project "ESP32-DEVKIT-S-ch340-mirror"
+      (project "panelization"
+        (path "/59a615f3-0e3a-43f4-a782-84f1af971154/06b7eb7f-1fd7-4161-9c4c-0f364271d469"
+          (reference "J14") (unit 1)
+        )
+      )
+      (project "L"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "J14") (unit 1)
         )
@@ -22605,7 +23080,12 @@
     (pin "1" (uuid d9049d5a-1db4-4304-b4a7-9c54104ca1bd))
     (pin "2" (uuid 739da45f-b1e8-4b6f-b793-18a087b97c6c))
     (instances
-      (project "ESP32-DEVKIT-S-ch340-mirror"
+      (project "panelization"
+        (path "/59a615f3-0e3a-43f4-a782-84f1af971154/06b7eb7f-1fd7-4161-9c4c-0f364271d469"
+          (reference "R50") (unit 1)
+        )
+      )
+      (project "L"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "R50") (unit 1)
         )
@@ -22631,7 +23111,12 @@
     (pin "1" (uuid e1a7e21f-4fd1-498d-858a-223efaf86993))
     (pin "2" (uuid 3ab1528c-2f89-4c2f-803a-356f71127fea))
     (instances
-      (project "ESP32-DEVKIT-S-ch340-mirror"
+      (project "panelization"
+        (path "/59a615f3-0e3a-43f4-a782-84f1af971154/06b7eb7f-1fd7-4161-9c4c-0f364271d469"
+          (reference "R52") (unit 1)
+        )
+      )
+      (project "L"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "R52") (unit 1)
         )
@@ -22657,7 +23142,12 @@
     (pin "1" (uuid 787d3ee4-6c10-4c29-8c67-c7a94ae53028))
     (pin "2" (uuid cac43b86-7c33-48e0-bcf2-85b19e79facf))
     (instances
-      (project "ESP32-DEVKIT-S-ch340-mirror"
+      (project "panelization"
+        (path "/59a615f3-0e3a-43f4-a782-84f1af971154/06b7eb7f-1fd7-4161-9c4c-0f364271d469"
+          (reference "R51") (unit 1)
+        )
+      )
+      (project "L"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "R51") (unit 1)
         )
@@ -22682,7 +23172,12 @@
     )
     (pin "1" (uuid 02f22b92-f7bd-4986-9e28-56463b2397fa))
     (instances
-      (project "ESP32-DEVKIT-S-ch340-mirror"
+      (project "panelization"
+        (path "/59a615f3-0e3a-43f4-a782-84f1af971154/06b7eb7f-1fd7-4161-9c4c-0f364271d469"
+          (reference "#GND074") (unit 1)
+        )
+      )
+      (project "L"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#GND074") (unit 1)
         )
@@ -22707,7 +23202,12 @@
     )
     (pin "1" (uuid cbaa2419-419d-437d-ba38-af1ac183b919))
     (instances
-      (project "ESP32-DEVKIT-S-ch340-mirror"
+      (project "panelization"
+        (path "/59a615f3-0e3a-43f4-a782-84f1af971154/06b7eb7f-1fd7-4161-9c4c-0f364271d469"
+          (reference "#GND053") (unit 1)
+        )
+      )
+      (project "L"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#GND053") (unit 1)
         )
@@ -22732,7 +23232,12 @@
     )
     (pin "1" (uuid f9eaa4e5-ed44-4ae1-9b95-944c7b0841c7))
     (instances
-      (project "ESP32-DEVKIT-S-ch340-mirror"
+      (project "panelization"
+        (path "/59a615f3-0e3a-43f4-a782-84f1af971154/06b7eb7f-1fd7-4161-9c4c-0f364271d469"
+          (reference "#GND054") (unit 1)
+        )
+      )
+      (project "L"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#GND054") (unit 1)
         )
@@ -22757,7 +23262,12 @@
     )
     (pin "1" (uuid c9539833-242f-4a02-9d97-56b11eeb631e))
     (instances
-      (project "ESP32-DEVKIT-S-ch340-mirror"
+      (project "panelization"
+        (path "/59a615f3-0e3a-43f4-a782-84f1af971154/06b7eb7f-1fd7-4161-9c4c-0f364271d469"
+          (reference "#SUPPLY042") (unit 1)
+        )
+      )
+      (project "L"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#SUPPLY042") (unit 1)
         )
@@ -22783,7 +23293,12 @@
     (pin "1" (uuid 4972e4a4-222e-4845-86d2-416a9e2d667b))
     (pin "2" (uuid 1b37967a-6f90-4f7f-9488-d10f5d4feed1))
     (instances
-      (project "ESP32-DEVKIT-S-ch340-mirror"
+      (project "panelization"
+        (path "/59a615f3-0e3a-43f4-a782-84f1af971154/06b7eb7f-1fd7-4161-9c4c-0f364271d469"
+          (reference "R43") (unit 1)
+        )
+      )
+      (project "L"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "R43") (unit 1)
         )
@@ -22809,7 +23324,12 @@
     (pin "1" (uuid b086f2de-1c82-4640-a492-9d680784c0f4))
     (pin "2" (uuid 1ba08f98-13a4-48ca-bcb4-f6fb5ce921ad))
     (instances
-      (project "ESP32-DEVKIT-S-ch340-mirror"
+      (project "panelization"
+        (path "/59a615f3-0e3a-43f4-a782-84f1af971154/06b7eb7f-1fd7-4161-9c4c-0f364271d469"
+          (reference "C17") (unit 1)
+        )
+      )
+      (project "L"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "C17") (unit 1)
         )
@@ -22834,7 +23354,12 @@
     )
     (pin "1" (uuid 8b88b365-a6a1-40a7-8c30-5514e13582f4))
     (instances
-      (project "ESP32-DEVKIT-S-ch340-mirror"
+      (project "panelization"
+        (path "/59a615f3-0e3a-43f4-a782-84f1af971154/06b7eb7f-1fd7-4161-9c4c-0f364271d469"
+          (reference "#GND049") (unit 1)
+        )
+      )
+      (project "L"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#GND049") (unit 1)
         )
@@ -22860,7 +23385,12 @@
     (pin "1" (uuid 75b39f86-cb28-41ab-a75d-a2e36b4b1325))
     (pin "2" (uuid 0efc73d4-c593-471d-a27e-dff2c6766be0))
     (instances
-      (project "ESP32-DEVKIT-S-ch340-mirror"
+      (project "panelization"
+        (path "/59a615f3-0e3a-43f4-a782-84f1af971154/06b7eb7f-1fd7-4161-9c4c-0f364271d469"
+          (reference "C15") (unit 1)
+        )
+      )
+      (project "L"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "C15") (unit 1)
         )
@@ -22885,7 +23415,12 @@
     )
     (pin "1" (uuid 6df2a56a-1270-4500-a09e-b05718b84cbc))
     (instances
-      (project "ESP32-DEVKIT-S-ch340-mirror"
+      (project "panelization"
+        (path "/59a615f3-0e3a-43f4-a782-84f1af971154/06b7eb7f-1fd7-4161-9c4c-0f364271d469"
+          (reference "#SUPPLY048") (unit 1)
+        )
+      )
+      (project "L"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#SUPPLY048") (unit 1)
         )
@@ -22910,7 +23445,12 @@
     )
     (pin "1" (uuid 0a6e57cb-02af-4637-b10c-6084fb4a554d))
     (instances
-      (project "ESP32-DEVKIT-S-ch340-mirror"
+      (project "panelization"
+        (path "/59a615f3-0e3a-43f4-a782-84f1af971154/06b7eb7f-1fd7-4161-9c4c-0f364271d469"
+          (reference "#GND076") (unit 1)
+        )
+      )
+      (project "L"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#GND076") (unit 1)
         )
@@ -22935,7 +23475,12 @@
     )
     (pin "1" (uuid 9f99aa27-f8d7-449b-9045-dab45aa187d5))
     (instances
-      (project "ESP32-DEVKIT-S-ch340-mirror"
+      (project "panelization"
+        (path "/59a615f3-0e3a-43f4-a782-84f1af971154/06b7eb7f-1fd7-4161-9c4c-0f364271d469"
+          (reference "#GND090") (unit 1)
+        )
+      )
+      (project "L"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#GND090") (unit 1)
         )
@@ -22960,7 +23505,12 @@
     )
     (pin "1" (uuid d0fdc4b7-9662-4058-98d4-fb1e3c1b9b35))
     (instances
-      (project "ESP32-DEVKIT-S-ch340-mirror"
+      (project "panelization"
+        (path "/59a615f3-0e3a-43f4-a782-84f1af971154/06b7eb7f-1fd7-4161-9c4c-0f364271d469"
+          (reference "#SUPPLY053") (unit 1)
+        )
+      )
+      (project "L"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#SUPPLY053") (unit 1)
         )
@@ -22985,7 +23535,12 @@
     )
     (pin "1" (uuid 75b2f35c-e4df-4071-acb5-285628e7e038))
     (instances
-      (project "ESP32-DEVKIT-S-ch340-mirror"
+      (project "panelization"
+        (path "/59a615f3-0e3a-43f4-a782-84f1af971154/06b7eb7f-1fd7-4161-9c4c-0f364271d469"
+          (reference "#GND060") (unit 1)
+        )
+      )
+      (project "L"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#GND060") (unit 1)
         )
@@ -23010,7 +23565,12 @@
     )
     (pin "1" (uuid 03c6a1b6-5917-4fe7-8366-c8a51b3dd573))
     (instances
-      (project "ESP32-DEVKIT-S-ch340-mirror"
+      (project "panelization"
+        (path "/59a615f3-0e3a-43f4-a782-84f1af971154/06b7eb7f-1fd7-4161-9c4c-0f364271d469"
+          (reference "#GND062") (unit 1)
+        )
+      )
+      (project "L"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#GND062") (unit 1)
         )
@@ -23035,7 +23595,12 @@
     )
     (pin "1" (uuid fe5d6eaf-785d-4ed3-821a-26a3aec50c9e))
     (instances
-      (project "ESP32-DEVKIT-S-ch340-mirror"
+      (project "panelization"
+        (path "/59a615f3-0e3a-43f4-a782-84f1af971154/06b7eb7f-1fd7-4161-9c4c-0f364271d469"
+          (reference "#SUPPLY032") (unit 1)
+        )
+      )
+      (project "L"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#SUPPLY032") (unit 1)
         )
@@ -23061,7 +23626,12 @@
     (pin "1" (uuid ba3549d0-297a-42c0-88a3-420b94dabf6b))
     (pin "2" (uuid 11379fb2-a439-4ec2-9529-38ded4f02856))
     (instances
-      (project "ESP32-DEVKIT-S-ch340-mirror"
+      (project "panelization"
+        (path "/59a615f3-0e3a-43f4-a782-84f1af971154/06b7eb7f-1fd7-4161-9c4c-0f364271d469"
+          (reference "C27") (unit 1)
+        )
+      )
+      (project "L"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "C27") (unit 1)
         )
@@ -23086,7 +23656,12 @@
     )
     (pin "1" (uuid 1ad7da77-fbb3-4a75-8677-f2a50a01772f))
     (instances
-      (project "ESP32-DEVKIT-S-ch340-mirror"
+      (project "panelization"
+        (path "/59a615f3-0e3a-43f4-a782-84f1af971154/06b7eb7f-1fd7-4161-9c4c-0f364271d469"
+          (reference "#SUPPLY041") (unit 1)
+        )
+      )
+      (project "L"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#SUPPLY041") (unit 1)
         )
@@ -23111,7 +23686,12 @@
     )
     (pin "1" (uuid a6a3d932-1054-45ce-aae3-32ea0c16ddb0))
     (instances
-      (project "ESP32-DEVKIT-S-ch340-mirror"
+      (project "panelization"
+        (path "/59a615f3-0e3a-43f4-a782-84f1af971154/06b7eb7f-1fd7-4161-9c4c-0f364271d469"
+          (reference "#SUPPLY055") (unit 1)
+        )
+      )
+      (project "L"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#SUPPLY055") (unit 1)
         )
@@ -23137,7 +23717,12 @@
     (pin "1" (uuid a4c54c15-be12-419d-8a79-2800e06aad62))
     (pin "2" (uuid e6efc33d-2d8a-4cac-995a-5df919d53e28))
     (instances
-      (project "ESP32-DEVKIT-S-ch340-mirror"
+      (project "panelization"
+        (path "/59a615f3-0e3a-43f4-a782-84f1af971154/06b7eb7f-1fd7-4161-9c4c-0f364271d469"
+          (reference "R48") (unit 1)
+        )
+      )
+      (project "L"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "R48") (unit 1)
         )
@@ -23163,7 +23748,12 @@
     (pin "1" (uuid f6d9e271-7678-4441-af9a-7dc21b8d16f2))
     (pin "2" (uuid 31fdf081-777a-4a65-a8ed-9357ca4dd526))
     (instances
-      (project "ESP32-DEVKIT-S-ch340-mirror"
+      (project "panelization"
+        (path "/59a615f3-0e3a-43f4-a782-84f1af971154/06b7eb7f-1fd7-4161-9c4c-0f364271d469"
+          (reference "R40") (unit 1)
+        )
+      )
+      (project "L"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "R40") (unit 1)
         )
@@ -23197,7 +23787,12 @@
     (pin "8" (uuid 5e1f377f-53b6-4fca-bcbb-f23d8733fec5))
     (pin "9" (uuid 0164d99c-cd60-40a9-8544-7ea5279ad8ac))
     (instances
-      (project "ESP32-DEVKIT-S-ch340-mirror"
+      (project "panelization"
+        (path "/59a615f3-0e3a-43f4-a782-84f1af971154/06b7eb7f-1fd7-4161-9c4c-0f364271d469"
+          (reference "U16") (unit 1)
+        )
+      )
+      (project "L"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "U16") (unit 1)
         )
@@ -23231,7 +23826,12 @@
     (pin "8" (uuid 28474bf1-37c0-445c-83ad-87238c373923))
     (pin "9" (uuid 153e4b2e-e487-41f0-8bc8-6d1767027e98))
     (instances
-      (project "ESP32-DEVKIT-S-ch340-mirror"
+      (project "panelization"
+        (path "/59a615f3-0e3a-43f4-a782-84f1af971154/06b7eb7f-1fd7-4161-9c4c-0f364271d469"
+          (reference "U18") (unit 1)
+        )
+      )
+      (project "L"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "U18") (unit 1)
         )
@@ -23259,7 +23859,12 @@
     (pin "3" (uuid e740c47a-6585-48a0-acd6-33a6a4b14621))
     (pin "4" (uuid 1fafd9a7-a53d-4ccd-a4ec-3dadb83b9f46))
     (instances
-      (project "ESP32-DEVKIT-S-ch340-mirror"
+      (project "panelization"
+        (path "/59a615f3-0e3a-43f4-a782-84f1af971154/06b7eb7f-1fd7-4161-9c4c-0f364271d469"
+          (reference "J13") (unit 1)
+        )
+      )
+      (project "L"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "J13") (unit 1)
         )
@@ -23284,7 +23889,12 @@
     )
     (pin "1" (uuid 32cad571-a5b2-41af-b29b-206e5b325caa))
     (instances
-      (project "ESP32-DEVKIT-S-ch340-mirror"
+      (project "panelization"
+        (path "/59a615f3-0e3a-43f4-a782-84f1af971154/06b7eb7f-1fd7-4161-9c4c-0f364271d469"
+          (reference "#GND080") (unit 1)
+        )
+      )
+      (project "L"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#GND080") (unit 1)
         )
@@ -23309,7 +23919,12 @@
     )
     (pin "1" (uuid b0d41eec-efcf-4d86-aa76-76ae1613da58))
     (instances
-      (project "ESP32-DEVKIT-S-ch340-mirror"
+      (project "panelization"
+        (path "/59a615f3-0e3a-43f4-a782-84f1af971154/06b7eb7f-1fd7-4161-9c4c-0f364271d469"
+          (reference "#GND081") (unit 1)
+        )
+      )
+      (project "L"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#GND081") (unit 1)
         )
@@ -23334,7 +23949,12 @@
     )
     (pin "1" (uuid 57ffab8f-a642-4dca-be31-303d9a0a8441))
     (instances
-      (project "ESP32-DEVKIT-S-ch340-mirror"
+      (project "panelization"
+        (path "/59a615f3-0e3a-43f4-a782-84f1af971154/06b7eb7f-1fd7-4161-9c4c-0f364271d469"
+          (reference "#GND082") (unit 1)
+        )
+      )
+      (project "L"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#GND082") (unit 1)
         )
@@ -23359,7 +23979,12 @@
     )
     (pin "1" (uuid 1fdb593b-256e-477e-a5e2-4284c2424a15))
     (instances
-      (project "ESP32-DEVKIT-S-ch340-mirror"
+      (project "panelization"
+        (path "/59a615f3-0e3a-43f4-a782-84f1af971154/06b7eb7f-1fd7-4161-9c4c-0f364271d469"
+          (reference "#SUPPLY050") (unit 1)
+        )
+      )
+      (project "L"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#SUPPLY050") (unit 1)
         )
@@ -23385,7 +24010,12 @@
     (pin "1" (uuid 03358980-912d-49d8-8a0c-95cd144f9a71))
     (pin "2" (uuid dfebf67b-7e6b-4a19-8666-969ed294db38))
     (instances
-      (project "ESP32-DEVKIT-S-ch340-mirror"
+      (project "panelization"
+        (path "/59a615f3-0e3a-43f4-a782-84f1af971154/06b7eb7f-1fd7-4161-9c4c-0f364271d469"
+          (reference "R57") (unit 1)
+        )
+      )
+      (project "L"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "R57") (unit 1)
         )
@@ -23410,7 +24040,12 @@
     )
     (pin "1" (uuid d530f33c-6340-4534-afac-80fb942c5c62))
     (instances
-      (project "ESP32-DEVKIT-S-ch340-mirror"
+      (project "panelization"
+        (path "/59a615f3-0e3a-43f4-a782-84f1af971154/06b7eb7f-1fd7-4161-9c4c-0f364271d469"
+          (reference "#SUPPLY031") (unit 1)
+        )
+      )
+      (project "L"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#SUPPLY031") (unit 1)
         )
@@ -23435,7 +24070,12 @@
     )
     (pin "1" (uuid 228628f3-cf09-4832-8df5-09d88e321069))
     (instances
-      (project "ESP32-DEVKIT-S-ch340-mirror"
+      (project "panelization"
+        (path "/59a615f3-0e3a-43f4-a782-84f1af971154/06b7eb7f-1fd7-4161-9c4c-0f364271d469"
+          (reference "#SUPPLY033") (unit 1)
+        )
+      )
+      (project "L"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#SUPPLY033") (unit 1)
         )
@@ -23461,7 +24101,12 @@
     (pin "1" (uuid d015d318-820c-443e-a111-32ef81b4e06e))
     (pin "2" (uuid 12f5f197-2f0a-4a23-87ee-bd1322d3909a))
     (instances
-      (project "ESP32-DEVKIT-S-ch340-mirror"
+      (project "panelization"
+        (path "/59a615f3-0e3a-43f4-a782-84f1af971154/06b7eb7f-1fd7-4161-9c4c-0f364271d469"
+          (reference "R46") (unit 1)
+        )
+      )
+      (project "L"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "R46") (unit 1)
         )
@@ -23487,7 +24132,12 @@
     (pin "1" (uuid eec13854-c0b2-4c24-92e7-d3490266cc61))
     (pin "2" (uuid 014ee664-da4e-4c23-9cf6-d125fe361e2f))
     (instances
-      (project "ESP32-DEVKIT-S-ch340-mirror"
+      (project "panelization"
+        (path "/59a615f3-0e3a-43f4-a782-84f1af971154/06b7eb7f-1fd7-4161-9c4c-0f364271d469"
+          (reference "R33") (unit 1)
+        )
+      )
+      (project "L"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "R33") (unit 1)
         )
@@ -23521,7 +24171,12 @@
     (pin "8" (uuid d6438716-6c07-42be-bdcd-bdfd686dac21))
     (pin "9" (uuid cd34ba21-e88c-41fc-a1f9-5bd36815a5f0))
     (instances
-      (project "ESP32-DEVKIT-S-ch340-mirror"
+      (project "panelization"
+        (path "/59a615f3-0e3a-43f4-a782-84f1af971154/06b7eb7f-1fd7-4161-9c4c-0f364271d469"
+          (reference "U17") (unit 1)
+        )
+      )
+      (project "L"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "U17") (unit 1)
         )
@@ -23546,7 +24201,12 @@
     )
     (pin "1" (uuid a09e8d14-9fef-4c7b-86f8-42b77e5e62ea))
     (instances
-      (project "ESP32-DEVKIT-S-ch340-mirror"
+      (project "panelization"
+        (path "/59a615f3-0e3a-43f4-a782-84f1af971154/06b7eb7f-1fd7-4161-9c4c-0f364271d469"
+          (reference "#SUPPLY039") (unit 1)
+        )
+      )
+      (project "L"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#SUPPLY039") (unit 1)
         )
@@ -23574,7 +24234,12 @@
     (pin "3" (uuid f406ada7-e19b-461d-aaee-7b2ce581f4cf))
     (pin "4" (uuid 17ad814d-fcbd-4976-8ed8-46e8b958cc26))
     (instances
-      (project "ESP32-DEVKIT-S-ch340-mirror"
+      (project "panelization"
+        (path "/59a615f3-0e3a-43f4-a782-84f1af971154/06b7eb7f-1fd7-4161-9c4c-0f364271d469"
+          (reference "S3") (unit 1)
+        )
+      )
+      (project "L"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "S3") (unit 1)
         )
@@ -23600,7 +24265,12 @@
     (pin "1" (uuid a9ae03fc-4e79-4fcf-8e4d-ccbd02b39275))
     (pin "2" (uuid 459875cb-7772-4328-b2d7-8df074ca2939))
     (instances
-      (project "ESP32-DEVKIT-S-ch340-mirror"
+      (project "panelization"
+        (path "/59a615f3-0e3a-43f4-a782-84f1af971154/06b7eb7f-1fd7-4161-9c4c-0f364271d469"
+          (reference "R32") (unit 1)
+        )
+      )
+      (project "L"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "R32") (unit 1)
         )
@@ -23625,7 +24295,12 @@
     )
     (pin "1" (uuid 49574ef8-facf-428f-aa94-44c53f1bb7da))
     (instances
-      (project "ESP32-DEVKIT-S-ch340-mirror"
+      (project "panelization"
+        (path "/59a615f3-0e3a-43f4-a782-84f1af971154/06b7eb7f-1fd7-4161-9c4c-0f364271d469"
+          (reference "#GND088") (unit 1)
+        )
+      )
+      (project "L"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#GND088") (unit 1)
         )
@@ -23653,7 +24328,12 @@
     (pin "3" (uuid e2e916c1-bdca-455d-8128-17b01c6be1aa))
     (pin "4" (uuid 3dedc04c-64aa-423c-b22f-62641438f4f6))
     (instances
-      (project "ESP32-DEVKIT-S-ch340-mirror"
+      (project "panelization"
+        (path "/59a615f3-0e3a-43f4-a782-84f1af971154/06b7eb7f-1fd7-4161-9c4c-0f364271d469"
+          (reference "S4") (unit 1)
+        )
+      )
+      (project "L"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "S4") (unit 1)
         )
@@ -23678,7 +24358,12 @@
     )
     (pin "1" (uuid 432e5634-0a16-434d-9ca8-53be4a17e8fb))
     (instances
-      (project "ESP32-DEVKIT-S-ch340-mirror"
+      (project "panelization"
+        (path "/59a615f3-0e3a-43f4-a782-84f1af971154/06b7eb7f-1fd7-4161-9c4c-0f364271d469"
+          (reference "#SUPPLY035") (unit 1)
+        )
+      )
+      (project "L"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#SUPPLY035") (unit 1)
         )
@@ -23704,7 +24389,12 @@
     (pin "1" (uuid f0ef8454-148f-4aba-87d1-266ffe7d3579))
     (pin "2" (uuid 56a9d871-eaf5-4fc3-8d28-408f80dd1f60))
     (instances
-      (project "ESP32-DEVKIT-S-ch340-mirror"
+      (project "panelization"
+        (path "/59a615f3-0e3a-43f4-a782-84f1af971154/06b7eb7f-1fd7-4161-9c4c-0f364271d469"
+          (reference "C24") (unit 1)
+        )
+      )
+      (project "L"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "C24") (unit 1)
         )
@@ -23730,7 +24420,12 @@
     (pin "1" (uuid 9d0b2470-5d45-4a4e-a25b-e325bf374354))
     (pin "2" (uuid 3f339235-90ee-4a27-b11e-34eda5040b64))
     (instances
-      (project "ESP32-DEVKIT-S-ch340-mirror"
+      (project "panelization"
+        (path "/59a615f3-0e3a-43f4-a782-84f1af971154/06b7eb7f-1fd7-4161-9c4c-0f364271d469"
+          (reference "R58") (unit 1)
+        )
+      )
+      (project "L"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "R58") (unit 1)
         )
@@ -23738,24 +24433,29 @@
     )
   )
 
-  (symbol (lib_id "SparkFun ESP32 Thing Plus C-eagle-import:V_BATT") (at 205.74 52.07 0) (unit 1)
+  (symbol (lib_id "SparkFun ESP32 Thing Plus C-eagle-import:V_BATT") (at 208.28 49.53 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid f37a7d14-df4f-4c7c-9a3d-c8214fc6445f)
-    (property "Reference" "#SUPPLY043" (at 205.74 52.07 0)
+    (property "Reference" "#SUPPLY043" (at 208.28 49.53 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "V_BATT" (at 205.74 49.276 0)
+    (property "Value" "V_BATT" (at 208.28 46.736 0)
       (effects (font (size 1.778 1.5113)) (justify bottom))
     )
-    (property "Footprint" "SparkFun ESP32 Thing Plus C:" (at 205.74 52.07 0)
+    (property "Footprint" "SparkFun ESP32 Thing Plus C:" (at 208.28 49.53 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "" (at 205.74 52.07 0)
+    (property "Datasheet" "" (at 208.28 49.53 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid ab30ebf1-7f58-4aed-829d-00ef59560580))
     (instances
-      (project "ESP32-DEVKIT-S-ch340-mirror"
+      (project "panelization"
+        (path "/59a615f3-0e3a-43f4-a782-84f1af971154/06b7eb7f-1fd7-4161-9c4c-0f364271d469"
+          (reference "#SUPPLY043") (unit 1)
+        )
+      )
+      (project "L"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#SUPPLY043") (unit 1)
         )
@@ -23781,7 +24481,12 @@
     (pin "1" (uuid 46c4c4c2-4693-4004-8090-5560460cf7e6))
     (pin "2" (uuid 3c627465-7f60-4689-be8c-7c2b58fa0882))
     (instances
-      (project "ESP32-DEVKIT-S-ch340-mirror"
+      (project "panelization"
+        (path "/59a615f3-0e3a-43f4-a782-84f1af971154/06b7eb7f-1fd7-4161-9c4c-0f364271d469"
+          (reference "C25") (unit 1)
+        )
+      )
+      (project "L"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "C25") (unit 1)
         )
@@ -23807,7 +24512,12 @@
     (pin "1" (uuid 0524b93f-f85d-4046-82fa-e6defbe01828))
     (pin "2" (uuid 043bfecc-6b0d-4744-8d16-c15a548abb1c))
     (instances
-      (project "ESP32-DEVKIT-S-ch340-mirror"
+      (project "panelization"
+        (path "/59a615f3-0e3a-43f4-a782-84f1af971154/06b7eb7f-1fd7-4161-9c4c-0f364271d469"
+          (reference "R54") (unit 1)
+        )
+      )
+      (project "L"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "R54") (unit 1)
         )
@@ -23832,7 +24542,12 @@
     )
     (pin "1" (uuid c10aea9e-25b5-4e5c-906b-c4a7b822e68f))
     (instances
-      (project "ESP32-DEVKIT-S-ch340-mirror"
+      (project "panelization"
+        (path "/59a615f3-0e3a-43f4-a782-84f1af971154/06b7eb7f-1fd7-4161-9c4c-0f364271d469"
+          (reference "#SUPPLY037") (unit 1)
+        )
+      )
+      (project "L"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#SUPPLY037") (unit 1)
         )
@@ -23857,7 +24572,12 @@
     )
     (pin "1" (uuid b42d2278-39f8-4d84-b5f0-f21bf022f2f9))
     (instances
-      (project "ESP32-DEVKIT-S-ch340-mirror"
+      (project "panelization"
+        (path "/59a615f3-0e3a-43f4-a782-84f1af971154/06b7eb7f-1fd7-4161-9c4c-0f364271d469"
+          (reference "#GND050") (unit 1)
+        )
+      )
+      (project "L"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#GND050") (unit 1)
         )
@@ -23882,7 +24602,12 @@
     )
     (pin "1" (uuid 81e9722b-b4a5-47b1-be3b-28c6a959addb))
     (instances
-      (project "ESP32-DEVKIT-S-ch340-mirror"
+      (project "panelization"
+        (path "/59a615f3-0e3a-43f4-a782-84f1af971154/06b7eb7f-1fd7-4161-9c4c-0f364271d469"
+          (reference "#GND056") (unit 1)
+        )
+      )
+      (project "L"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#GND056") (unit 1)
         )
@@ -23908,7 +24633,12 @@
     (pin "1" (uuid 150ec0e6-2851-4d1d-8ba0-a854d9d50b43))
     (pin "2" (uuid 0bc43477-b21f-453a-b934-49215d3ed5fd))
     (instances
-      (project "ESP32-DEVKIT-S-ch340-mirror"
+      (project "panelization"
+        (path "/59a615f3-0e3a-43f4-a782-84f1af971154/06b7eb7f-1fd7-4161-9c4c-0f364271d469"
+          (reference "R62") (unit 1)
+        )
+      )
+      (project "L"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "R62") (unit 1)
         )
@@ -23946,7 +24676,12 @@
     (pin "8" (uuid e0bc16e2-2e77-4e83-81b8-aa2c0b4340fc))
     (pin "9" (uuid 9fa83a33-2c38-44e7-9e14-163cca7bbeca))
     (instances
-      (project "ESP32-DEVKIT-S-ch340-mirror"
+      (project "panelization"
+        (path "/59a615f3-0e3a-43f4-a782-84f1af971154/06b7eb7f-1fd7-4161-9c4c-0f364271d469"
+          (reference "U11") (unit 1)
+        )
+      )
+      (project "L"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "U11") (unit 1)
         )
@@ -23971,7 +24706,12 @@
     )
     (pin "1" (uuid df801025-2b19-46ad-8079-b70ef1c38903))
     (instances
-      (project "ESP32-DEVKIT-S-ch340-mirror"
+      (project "panelization"
+        (path "/59a615f3-0e3a-43f4-a782-84f1af971154/06b7eb7f-1fd7-4161-9c4c-0f364271d469"
+          (reference "#SUPPLY034") (unit 1)
+        )
+      )
+      (project "L"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#SUPPLY034") (unit 1)
         )
@@ -23996,7 +24736,12 @@
     )
     (pin "1" (uuid e7b2585f-0025-48e4-96db-158ed897a1a4))
     (instances
-      (project "ESP32-DEVKIT-S-ch340-mirror"
+      (project "panelization"
+        (path "/59a615f3-0e3a-43f4-a782-84f1af971154/06b7eb7f-1fd7-4161-9c4c-0f364271d469"
+          (reference "#SUPPLY049") (unit 1)
+        )
+      )
+      (project "L"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#SUPPLY049") (unit 1)
         )
@@ -24029,7 +24774,12 @@
     (pin "8" (uuid dd68cb74-1c9f-46a3-8707-864d92465769))
     (pin "9" (uuid a1162a5a-edc4-484d-9c33-c2acd0f249f6))
     (instances
-      (project "ESP32-DEVKIT-S-ch340-mirror"
+      (project "panelization"
+        (path "/59a615f3-0e3a-43f4-a782-84f1af971154/06b7eb7f-1fd7-4161-9c4c-0f364271d469"
+          (reference "U20") (unit 1)
+        )
+      )
+      (project "L"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "U20") (unit 1)
         )
@@ -24055,7 +24805,12 @@
     (pin "1" (uuid e1335653-85a5-4829-baf9-786849712e3d))
     (pin "2" (uuid f9b6f6e3-2a12-45e7-89ee-a88544c2f2d6))
     (instances
-      (project "ESP32-DEVKIT-S-ch340-mirror"
+      (project "panelization"
+        (path "/59a615f3-0e3a-43f4-a782-84f1af971154/06b7eb7f-1fd7-4161-9c4c-0f364271d469"
+          (reference "R60") (unit 1)
+        )
+      )
+      (project "L"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "R60") (unit 1)
         )
