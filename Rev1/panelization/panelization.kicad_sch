@@ -1,0 +1,48 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid 59a615f3-0e3a-43f4-a782-84f1af971154)
+
+  (paper "A5")
+
+  (lib_symbols
+  )
+
+
+  (sheet (at 120.65 54.61) (size 12.7 3.81) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 06b7eb7f-1fd7-4161-9c4c-0f364271d469)
+    (property "Sheetname" "L" (at 120.65 53.8984 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "F:/OneDrive/proje/git/Hasatio/esp32DevKitS/Rev1/L/L.kicad_sch" (at 120.65 59.0046 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "panelization"
+        (path "/59a615f3-0e3a-43f4-a782-84f1af971154" (page "3"))
+      )
+    )
+  )
+
+  (sheet (at 67.31 54.61) (size 12.7 3.81) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 965a2650-4988-4f9a-a18b-ac3a16fe8acf)
+    (property "Sheetname" "R" (at 67.31 53.8984 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "F:/OneDrive/proje/git/Hasatio/esp32DevKitS/Rev1/R/R.kicad_sch" (at 67.31 59.0046 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "panelization"
+        (path "/59a615f3-0e3a-43f4-a782-84f1af971154" (page "2"))
+      )
+    )
+  )
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)

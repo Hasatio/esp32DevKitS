@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "SparkFun ESP32 Thing Plus C-eagle-import")(type "KiCad")(uri "L:/OneDrive/proje/git/Hasatio/esp32DevKitS/ESP32-DEVKIT-S rev1/ESP32-DEVKIT-S-mirror/SparkFun ESP32 Thing Plus C-eagle-import.kicad_sym")(options "")(descr ""))
+)
