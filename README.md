@@ -42,3 +42,12 @@ This pcb scaled down using the components in the example schematic
 - CH340C model
 - TX, RX connection paths reversed
 - Analog pull up resistor 100k
+
+### Note: The battery does not charge when the switch is in the off position.
+
+
+## Revision 2
+
+
+### Changed:
+- The on/off switch will only be used for battery discharge
