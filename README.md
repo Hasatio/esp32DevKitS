@@ -9,7 +9,7 @@ This pcb scaled down using the components in the example schematic
 
 ### Added:
 
-- ADXL345 (Accelerometer)
+- 1x ADXL345 (Accelerometer)
 - 2x 1x20 FPC connector for ESP pins
 - In breakable PCB:
   - 4x ADS1115 (Analog to Digital Converter)
