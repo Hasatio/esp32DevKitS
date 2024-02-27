@@ -5,10 +5,9 @@
   (paper "User" 451.815 299.39)
 
   (title_block
-    (title "posture")
-    (date "2023-02-28")
-    (rev "0")
-    (company "hasatio")
+    (title "ESP32-DEVKIT-S")
+    (rev "1")
+    (company "HASATIO")
   )
 
   (lib_symbols

@@ -5,10 +5,9 @@
   (paper "User" 451.815 299.39)
 
   (title_block
-    (title "posture")
-    (date "2023-02-28")
-    (rev "0")
-    (company "hasatio")
+    (title "ESP32-DEVKIT-S")
+    (rev "1")
+    (company "HASATIO")
   )
 
   (lib_symbols
@@ -20041,7 +20040,7 @@
           (reference "#SUPPLY020") (unit 1)
         )
       )
-      (project "ESP32-DEVKIT-S-ch340"
+      (project "R"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#SUPPLY020") (unit 1)
         )
@@ -20072,7 +20071,7 @@
           (reference "C8") (unit 1)
         )
       )
-      (project "ESP32-DEVKIT-S-ch340"
+      (project "R"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "C8") (unit 1)
         )
@@ -20102,7 +20101,7 @@
           (reference "#SUPPLY029") (unit 1)
         )
       )
-      (project "ESP32-DEVKIT-S-ch340"
+      (project "R"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#SUPPLY029") (unit 1)
         )
@@ -20133,7 +20132,7 @@
           (reference "R26") (unit 1)
         )
       )
-      (project "ESP32-DEVKIT-S-ch340"
+      (project "R"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "R26") (unit 1)
         )
@@ -20163,7 +20162,7 @@
           (reference "#GND02") (unit 1)
         )
       )
-      (project "ESP32-DEVKIT-S-ch340"
+      (project "R"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#GND02") (unit 1)
         )
@@ -20208,7 +20207,7 @@
           (reference "U9") (unit 1)
         )
       )
-      (project "ESP32-DEVKIT-S-ch340"
+      (project "R"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "U9") (unit 1)
         )
@@ -20238,7 +20237,7 @@
           (reference "#GND05") (unit 1)
         )
       )
-      (project "ESP32-DEVKIT-S-ch340"
+      (project "R"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#GND05") (unit 1)
         )
@@ -20269,7 +20268,7 @@
           (reference "C4") (unit 1)
         )
       )
-      (project "ESP32-DEVKIT-S-ch340"
+      (project "R"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "C4") (unit 1)
         )
@@ -20302,7 +20301,7 @@
           (reference "SW1") (unit 1)
         )
       )
-      (project "ESP32-DEVKIT-S-ch340"
+      (project "R"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "SW1") (unit 1)
         )
@@ -20333,7 +20332,7 @@
           (reference "R20") (unit 1)
         )
       )
-      (project "ESP32-DEVKIT-S-ch340"
+      (project "R"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "R20") (unit 1)
         )
@@ -20401,7 +20400,7 @@
           (reference "U3") (unit 1)
         )
       )
-      (project "ESP32-DEVKIT-S-ch340"
+      (project "R"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "U3") (unit 1)
         )
@@ -20432,7 +20431,7 @@
           (reference "JP2") (unit 1)
         )
       )
-      (project "ESP32-DEVKIT-S-ch340"
+      (project "R"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "JP2") (unit 1)
         )
@@ -20462,7 +20461,7 @@
           (reference "#SUPPLY05") (unit 1)
         )
       )
-      (project "ESP32-DEVKIT-S-ch340"
+      (project "R"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#SUPPLY05") (unit 1)
         )
@@ -20501,7 +20500,7 @@
           (reference "U6") (unit 1)
         )
       )
-      (project "ESP32-DEVKIT-S-ch340"
+      (project "R"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "U6") (unit 1)
         )
@@ -20531,7 +20530,7 @@
           (reference "#GND08") (unit 1)
         )
       )
-      (project "ESP32-DEVKIT-S-ch340"
+      (project "R"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#GND08") (unit 1)
         )
@@ -20561,7 +20560,7 @@
           (reference "#SUPPLY09") (unit 1)
         )
       )
-      (project "ESP32-DEVKIT-S-ch340"
+      (project "R"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#SUPPLY09") (unit 1)
         )
@@ -20591,7 +20590,7 @@
           (reference "#GND019") (unit 1)
         )
       )
-      (project "ESP32-DEVKIT-S-ch340"
+      (project "R"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#GND019") (unit 1)
         )
@@ -20621,7 +20620,7 @@
           (reference "#SUPPLY019") (unit 1)
         )
       )
-      (project "ESP32-DEVKIT-S-ch340"
+      (project "R"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#SUPPLY019") (unit 1)
         )
@@ -20651,7 +20650,7 @@
           (reference "#GND028") (unit 1)
         )
       )
-      (project "ESP32-DEVKIT-S-ch340"
+      (project "R"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#GND028") (unit 1)
         )
@@ -20681,7 +20680,7 @@
           (reference "#SUPPLY023") (unit 1)
         )
       )
-      (project "ESP32-DEVKIT-S-ch340"
+      (project "R"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#SUPPLY023") (unit 1)
         )
@@ -20711,7 +20710,7 @@
           (reference "#GND022") (unit 1)
         )
       )
-      (project "ESP32-DEVKIT-S-ch340"
+      (project "R"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#GND022") (unit 1)
         )
@@ -20742,7 +20741,7 @@
           (reference "R25") (unit 1)
         )
       )
-      (project "ESP32-DEVKIT-S-ch340"
+      (project "R"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "R25") (unit 1)
         )
@@ -20773,7 +20772,7 @@
           (reference "C14") (unit 1)
         )
       )
-      (project "ESP32-DEVKIT-S-ch340"
+      (project "R"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "C14") (unit 1)
         )
@@ -20803,7 +20802,7 @@
           (reference "#GND016") (unit 1)
         )
       )
-      (project "ESP32-DEVKIT-S-ch340"
+      (project "R"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#GND016") (unit 1)
         )
@@ -20833,7 +20832,7 @@
           (reference "#SUPPLY030") (unit 1)
         )
       )
-      (project "ESP32-DEVKIT-S-ch340"
+      (project "R"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#SUPPLY030") (unit 1)
         )
@@ -20862,7 +20861,7 @@
           (reference "LOGO2") (unit 1)
         )
       )
-      (project "ESP32-DEVKIT-S-ch340"
+      (project "R"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "LOGO2") (unit 1)
         )
@@ -20892,7 +20891,7 @@
           (reference "#GND037") (unit 1)
         )
       )
-      (project "ESP32-DEVKIT-S-ch340"
+      (project "R"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#GND037") (unit 1)
         )
@@ -20922,7 +20921,7 @@
           (reference "#SUPPLY03") (unit 1)
         )
       )
-      (project "ESP32-DEVKIT-S-ch340"
+      (project "R"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#SUPPLY03") (unit 1)
         )
@@ -20952,7 +20951,7 @@
           (reference "#GND09") (unit 1)
         )
       )
-      (project "ESP32-DEVKIT-S-ch340"
+      (project "R"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#GND09") (unit 1)
         )
@@ -20982,7 +20981,7 @@
           (reference "#SUPPLY02") (unit 1)
         )
       )
-      (project "ESP32-DEVKIT-S-ch340"
+      (project "R"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#SUPPLY02") (unit 1)
         )
@@ -21013,7 +21012,7 @@
           (reference "C2") (unit 1)
         )
       )
-      (project "ESP32-DEVKIT-S-ch340"
+      (project "R"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "C2") (unit 1)
         )
@@ -21052,7 +21051,7 @@
           (reference "U8") (unit 1)
         )
       )
-      (project "ESP32-DEVKIT-S-ch340"
+      (project "R"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "U8") (unit 1)
         )
@@ -21082,7 +21081,7 @@
           (reference "#SUPPLY026") (unit 1)
         )
       )
-      (project "ESP32-DEVKIT-S-ch340"
+      (project "R"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#SUPPLY026") (unit 1)
         )
@@ -21112,7 +21111,7 @@
           (reference "#SUPPLY017") (unit 1)
         )
       )
-      (project "ESP32-DEVKIT-S-ch340"
+      (project "R"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#SUPPLY017") (unit 1)
         )
@@ -21142,7 +21141,7 @@
           (reference "#SUPPLY021") (unit 1)
         )
       )
-      (project "ESP32-DEVKIT-S-ch340"
+      (project "R"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#SUPPLY021") (unit 1)
         )
@@ -21172,7 +21171,7 @@
           (reference "#GND020") (unit 1)
         )
       )
-      (project "ESP32-DEVKIT-S-ch340"
+      (project "R"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#GND020") (unit 1)
         )
@@ -21203,7 +21202,7 @@
           (reference "R22") (unit 1)
         )
       )
-      (project "ESP32-DEVKIT-S-ch340"
+      (project "R"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "R22") (unit 1)
         )
@@ -21234,7 +21233,7 @@
           (reference "R30") (unit 1)
         )
       )
-      (project "ESP32-DEVKIT-S-ch340"
+      (project "R"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "R30") (unit 1)
         )
@@ -21266,7 +21265,7 @@
           (reference "Q1") (unit 1)
         )
       )
-      (project "ESP32-DEVKIT-S-ch340"
+      (project "R"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "Q1") (unit 1)
         )
@@ -21296,7 +21295,7 @@
           (reference "#GND012") (unit 1)
         )
       )
-      (project "ESP32-DEVKIT-S-ch340"
+      (project "R"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#GND012") (unit 1)
         )
@@ -21327,7 +21326,7 @@
           (reference "JP1") (unit 1)
         )
       )
-      (project "ESP32-DEVKIT-S-ch340"
+      (project "R"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "JP1") (unit 1)
         )
@@ -21357,7 +21356,7 @@
           (reference "#SUPPLY07") (unit 1)
         )
       )
-      (project "ESP32-DEVKIT-S-ch340"
+      (project "R"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#SUPPLY07") (unit 1)
         )
@@ -21388,7 +21387,7 @@
           (reference "C12") (unit 1)
         )
       )
-      (project "ESP32-DEVKIT-S-ch340"
+      (project "R"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "C12") (unit 1)
         )
@@ -21418,7 +21417,7 @@
           (reference "#GND038") (unit 1)
         )
       )
-      (project "ESP32-DEVKIT-S-ch340"
+      (project "R"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#GND038") (unit 1)
         )
@@ -21448,7 +21447,7 @@
           (reference "#SUPPLY014") (unit 1)
         )
       )
-      (project "ESP32-DEVKIT-S-ch340"
+      (project "R"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#SUPPLY014") (unit 1)
         )
@@ -21478,7 +21477,7 @@
           (reference "#SUPPLY016") (unit 1)
         )
       )
-      (project "ESP32-DEVKIT-S-ch340"
+      (project "R"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#SUPPLY016") (unit 1)
         )
@@ -21509,7 +21508,7 @@
           (reference "R14") (unit 1)
         )
       )
-      (project "ESP32-DEVKIT-S-ch340"
+      (project "R"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "R14") (unit 1)
         )
@@ -21540,7 +21539,7 @@
           (reference "R3") (unit 1)
         )
       )
-      (project "ESP32-DEVKIT-S-ch340"
+      (project "R"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "R3") (unit 1)
         )
@@ -21570,7 +21569,7 @@
           (reference "#SUPPLY024") (unit 1)
         )
       )
-      (project "ESP32-DEVKIT-S-ch340"
+      (project "R"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#SUPPLY024") (unit 1)
         )
@@ -21600,7 +21599,7 @@
           (reference "#GND010") (unit 1)
         )
       )
-      (project "ESP32-DEVKIT-S-ch340"
+      (project "R"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#GND010") (unit 1)
         )
@@ -21638,7 +21637,7 @@
           (reference "U10") (unit 1)
         )
       )
-      (project "ESP32-DEVKIT-S-ch340"
+      (project "R"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "U10") (unit 1)
         )
@@ -21669,7 +21668,7 @@
           (reference "C9") (unit 1)
         )
       )
-      (project "ESP32-DEVKIT-S-ch340"
+      (project "R"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "C9") (unit 1)
         )
@@ -21699,7 +21698,7 @@
           (reference "#GND045") (unit 1)
         )
       )
-      (project "ESP32-DEVKIT-S-ch340"
+      (project "R"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#GND045") (unit 1)
         )
@@ -21730,7 +21729,7 @@
           (reference "R28") (unit 1)
         )
       )
-      (project "ESP32-DEVKIT-S-ch340"
+      (project "R"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "R28") (unit 1)
         )
@@ -21760,7 +21759,7 @@
           (reference "#GND014") (unit 1)
         )
       )
-      (project "ESP32-DEVKIT-S-ch340"
+      (project "R"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#GND014") (unit 1)
         )
@@ -21793,7 +21792,7 @@
           (reference "J6") (unit 1)
         )
       )
-      (project "ESP32-DEVKIT-S-ch340"
+      (project "R"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "J6") (unit 1)
         )
@@ -21824,7 +21823,7 @@
           (reference "C13") (unit 1)
         )
       )
-      (project "ESP32-DEVKIT-S-ch340"
+      (project "R"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "C13") (unit 1)
         )
@@ -21854,7 +21853,7 @@
           (reference "#GND044") (unit 1)
         )
       )
-      (project "ESP32-DEVKIT-S-ch340"
+      (project "R"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#GND044") (unit 1)
         )
@@ -21884,7 +21883,7 @@
           (reference "#GND021") (unit 1)
         )
       )
-      (project "ESP32-DEVKIT-S-ch340"
+      (project "R"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#GND021") (unit 1)
         )
@@ -21915,7 +21914,7 @@
           (reference "D3") (unit 1)
         )
       )
-      (project "ESP32-DEVKIT-S-ch340"
+      (project "R"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "D3") (unit 1)
         )
@@ -21946,7 +21945,7 @@
           (reference "R18") (unit 1)
         )
       )
-      (project "ESP32-DEVKIT-S-ch340"
+      (project "R"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "R18") (unit 1)
         )
@@ -21975,7 +21974,7 @@
           (reference "LOGO1") (unit 1)
         )
       )
-      (project "ESP32-DEVKIT-S-ch340"
+      (project "R"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "LOGO1") (unit 1)
         )
@@ -22005,7 +22004,7 @@
           (reference "#GND030") (unit 1)
         )
       )
-      (project "ESP32-DEVKIT-S-ch340"
+      (project "R"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#GND030") (unit 1)
         )
@@ -22036,7 +22035,7 @@
           (reference "R11") (unit 1)
         )
       )
-      (project "ESP32-DEVKIT-S-ch340"
+      (project "R"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "R11") (unit 1)
         )
@@ -22069,7 +22068,7 @@
           (reference "J3") (unit 1)
         )
       )
-      (project "ESP32-DEVKIT-S-ch340"
+      (project "R"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "J3") (unit 1)
         )
@@ -22100,7 +22099,7 @@
           (reference "R9") (unit 1)
         )
       )
-      (project "ESP32-DEVKIT-S-ch340"
+      (project "R"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "R9") (unit 1)
         )
@@ -22131,7 +22130,7 @@
           (reference "C6") (unit 1)
         )
       )
-      (project "ESP32-DEVKIT-S-ch340"
+      (project "R"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "C6") (unit 1)
         )
@@ -22180,7 +22179,7 @@
           (reference "J5") (unit 1)
         )
       )
-      (project "ESP32-DEVKIT-S-ch340"
+      (project "R"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "J5") (unit 1)
         )
@@ -22211,7 +22210,7 @@
           (reference "D2") (unit 1)
         )
       )
-      (project "ESP32-DEVKIT-S-ch340"
+      (project "R"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "D2") (unit 1)
         )
@@ -22250,7 +22249,7 @@
           (reference "U5") (unit 1)
         )
       )
-      (project "ESP32-DEVKIT-S-ch340"
+      (project "R"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "U5") (unit 1)
         )
@@ -22281,7 +22280,7 @@
           (reference "D4") (unit 1)
         )
       )
-      (project "ESP32-DEVKIT-S-ch340"
+      (project "R"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "D4") (unit 1)
         )
@@ -22312,7 +22311,7 @@
           (reference "R23") (unit 1)
         )
       )
-      (project "ESP32-DEVKIT-S-ch340"
+      (project "R"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "R23") (unit 1)
         )
@@ -22342,7 +22341,7 @@
           (reference "#GND025") (unit 1)
         )
       )
-      (project "ESP32-DEVKIT-S-ch340"
+      (project "R"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#GND025") (unit 1)
         )
@@ -22372,7 +22371,7 @@
           (reference "#GND06") (unit 1)
         )
       )
-      (project "ESP32-DEVKIT-S-ch340"
+      (project "R"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#GND06") (unit 1)
         )
@@ -22402,7 +22401,7 @@
           (reference "#GND033") (unit 1)
         )
       )
-      (project "ESP32-DEVKIT-S-ch340"
+      (project "R"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#GND033") (unit 1)
         )
@@ -22433,7 +22432,7 @@
           (reference "R13") (unit 1)
         )
       )
-      (project "ESP32-DEVKIT-S-ch340"
+      (project "R"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "R13") (unit 1)
         )
@@ -22464,7 +22463,7 @@
           (reference "D1") (unit 1)
         )
       )
-      (project "ESP32-DEVKIT-S-ch340"
+      (project "R"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "D1") (unit 1)
         )
@@ -22494,7 +22493,7 @@
           (reference "#GND029") (unit 1)
         )
       )
-      (project "ESP32-DEVKIT-S-ch340"
+      (project "R"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#GND029") (unit 1)
         )
@@ -22525,7 +22524,7 @@
           (reference "R8") (unit 1)
         )
       )
-      (project "ESP32-DEVKIT-S-ch340"
+      (project "R"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "R8") (unit 1)
         )
@@ -22556,7 +22555,7 @@
           (reference "C10") (unit 1)
         )
       )
-      (project "ESP32-DEVKIT-S-ch340"
+      (project "R"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "C10") (unit 1)
         )
@@ -22587,7 +22586,7 @@
           (reference "R5") (unit 1)
         )
       )
-      (project "ESP32-DEVKIT-S-ch340"
+      (project "R"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "R5") (unit 1)
         )
@@ -22624,7 +22623,7 @@
           (reference "U2") (unit 1)
         )
       )
-      (project "ESP32-DEVKIT-S-ch340"
+      (project "R"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "U2") (unit 1)
         )
@@ -22655,7 +22654,7 @@
           (reference "C7") (unit 1)
         )
       )
-      (project "ESP32-DEVKIT-S-ch340"
+      (project "R"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "C7") (unit 1)
         )
@@ -22685,7 +22684,7 @@
           (reference "#SUPPLY08") (unit 1)
         )
       )
-      (project "ESP32-DEVKIT-S-ch340"
+      (project "R"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#SUPPLY08") (unit 1)
         )
@@ -22715,7 +22714,7 @@
           (reference "#SUPPLY022") (unit 1)
         )
       )
-      (project "ESP32-DEVKIT-S-ch340"
+      (project "R"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#SUPPLY022") (unit 1)
         )
@@ -22746,7 +22745,7 @@
           (reference "R17") (unit 1)
         )
       )
-      (project "ESP32-DEVKIT-S-ch340"
+      (project "R"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "R17") (unit 1)
         )
@@ -22776,7 +22775,7 @@
           (reference "#SUPPLY012") (unit 1)
         )
       )
-      (project "ESP32-DEVKIT-S-ch340"
+      (project "R"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#SUPPLY012") (unit 1)
         )
@@ -22807,7 +22806,7 @@
           (reference "R1") (unit 1)
         )
       )
-      (project "ESP32-DEVKIT-S-ch340"
+      (project "R"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "R1") (unit 1)
         )
@@ -22837,7 +22836,7 @@
           (reference "#SUPPLY011") (unit 1)
         )
       )
-      (project "ESP32-DEVKIT-S-ch340"
+      (project "R"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#SUPPLY011") (unit 1)
         )
@@ -22867,7 +22866,7 @@
           (reference "#GND040") (unit 1)
         )
       )
-      (project "ESP32-DEVKIT-S-ch340"
+      (project "R"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#GND040") (unit 1)
         )
@@ -22898,7 +22897,7 @@
           (reference "R19") (unit 1)
         )
       )
-      (project "ESP32-DEVKIT-S-ch340"
+      (project "R"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "R19") (unit 1)
         )
@@ -22931,7 +22930,7 @@
           (reference "J1") (unit 1)
         )
       )
-      (project "ESP32-DEVKIT-S-ch340"
+      (project "R"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "J1") (unit 1)
         )
@@ -22961,7 +22960,7 @@
           (reference "#GND036") (unit 1)
         )
       )
-      (project "ESP32-DEVKIT-S-ch340"
+      (project "R"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#GND036") (unit 1)
         )
@@ -22991,7 +22990,7 @@
           (reference "#GND07") (unit 1)
         )
       )
-      (project "ESP32-DEVKIT-S-ch340"
+      (project "R"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#GND07") (unit 1)
         )
@@ -23022,7 +23021,7 @@
           (reference "R24") (unit 1)
         )
       )
-      (project "ESP32-DEVKIT-S-ch340"
+      (project "R"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "R24") (unit 1)
         )
@@ -23071,7 +23070,7 @@
           (reference "J4") (unit 1)
         )
       )
-      (project "ESP32-DEVKIT-S-ch340"
+      (project "R"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "J4") (unit 1)
         )
@@ -23114,7 +23113,7 @@
           (reference "U1") (unit 1)
         )
       )
-      (project "ESP32-DEVKIT-S-ch340"
+      (project "R"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "U1") (unit 1)
         )
@@ -23144,7 +23143,7 @@
           (reference "#GND043") (unit 1)
         )
       )
-      (project "ESP32-DEVKIT-S-ch340"
+      (project "R"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#GND043") (unit 1)
         )
@@ -23174,7 +23173,7 @@
           (reference "#GND035") (unit 1)
         )
       )
-      (project "ESP32-DEVKIT-S-ch340"
+      (project "R"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#GND035") (unit 1)
         )
@@ -23205,7 +23204,7 @@
           (reference "R15") (unit 1)
         )
       )
-      (project "ESP32-DEVKIT-S-ch340"
+      (project "R"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "R15") (unit 1)
         )
@@ -23235,7 +23234,7 @@
           (reference "#GND032") (unit 1)
         )
       )
-      (project "ESP32-DEVKIT-S-ch340"
+      (project "R"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#GND032") (unit 1)
         )
@@ -23266,7 +23265,7 @@
           (reference "C3") (unit 1)
         )
       )
-      (project "ESP32-DEVKIT-S-ch340"
+      (project "R"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "C3") (unit 1)
         )
@@ -23296,7 +23295,7 @@
           (reference "#GND042") (unit 1)
         )
       )
-      (project "ESP32-DEVKIT-S-ch340"
+      (project "R"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#GND042") (unit 1)
         )
@@ -23345,7 +23344,7 @@
           (reference "J7") (unit 1)
         )
       )
-      (project "ESP32-DEVKIT-S-ch340"
+      (project "R"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "J7") (unit 1)
         )
@@ -23376,7 +23375,7 @@
           (reference "R7") (unit 1)
         )
       )
-      (project "ESP32-DEVKIT-S-ch340"
+      (project "R"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "R7") (unit 1)
         )
@@ -23406,7 +23405,7 @@
           (reference "#GND039") (unit 1)
         )
       )
-      (project "ESP32-DEVKIT-S-ch340"
+      (project "R"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#GND039") (unit 1)
         )
@@ -23449,7 +23448,7 @@
           (reference "J2") (unit 1)
         )
       )
-      (project "ESP32-DEVKIT-S-ch340"
+      (project "R"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "J2") (unit 1)
         )
@@ -23479,7 +23478,7 @@
           (reference "#GND04") (unit 1)
         )
       )
-      (project "ESP32-DEVKIT-S-ch340"
+      (project "R"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#GND04") (unit 1)
         )
@@ -23510,7 +23509,7 @@
           (reference "R6") (unit 1)
         )
       )
-      (project "ESP32-DEVKIT-S-ch340"
+      (project "R"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "R6") (unit 1)
         )
@@ -23540,7 +23539,7 @@
           (reference "#GND03") (unit 1)
         )
       )
-      (project "ESP32-DEVKIT-S-ch340"
+      (project "R"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#GND03") (unit 1)
         )
@@ -23570,7 +23569,7 @@
           (reference "#GND023") (unit 1)
         )
       )
-      (project "ESP32-DEVKIT-S-ch340"
+      (project "R"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#GND023") (unit 1)
         )
@@ -23601,7 +23600,7 @@
           (reference "R29") (unit 1)
         )
       )
-      (project "ESP32-DEVKIT-S-ch340"
+      (project "R"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "R29") (unit 1)
         )
@@ -23640,7 +23639,7 @@
           (reference "U7") (unit 1)
         )
       )
-      (project "ESP32-DEVKIT-S-ch340"
+      (project "R"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "U7") (unit 1)
         )
@@ -23671,7 +23670,7 @@
           (reference "C5") (unit 1)
         )
       )
-      (project "ESP32-DEVKIT-S-ch340"
+      (project "R"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "C5") (unit 1)
         )
@@ -23702,7 +23701,7 @@
           (reference "C11") (unit 1)
         )
       )
-      (project "ESP32-DEVKIT-S-ch340"
+      (project "R"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "C11") (unit 1)
         )
@@ -23733,7 +23732,7 @@
           (reference "R21") (unit 1)
         )
       )
-      (project "ESP32-DEVKIT-S-ch340"
+      (project "R"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "R21") (unit 1)
         )
@@ -23764,7 +23763,7 @@
           (reference "R27") (unit 1)
         )
       )
-      (project "ESP32-DEVKIT-S-ch340"
+      (project "R"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "R27") (unit 1)
         )
@@ -23798,7 +23797,7 @@
           (reference "U4") (unit 1)
         )
       )
-      (project "ESP32-DEVKIT-S-ch340"
+      (project "R"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "U4") (unit 1)
         )
@@ -23828,7 +23827,7 @@
           (reference "#GND015") (unit 1)
         )
       )
-      (project "ESP32-DEVKIT-S-ch340"
+      (project "R"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#GND015") (unit 1)
         )
@@ -23859,7 +23858,7 @@
           (reference "R2") (unit 1)
         )
       )
-      (project "ESP32-DEVKIT-S-ch340"
+      (project "R"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "R2") (unit 1)
         )
@@ -23889,7 +23888,7 @@
           (reference "#SUPPLY01") (unit 1)
         )
       )
-      (project "ESP32-DEVKIT-S-ch340"
+      (project "R"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#SUPPLY01") (unit 1)
         )
@@ -23919,7 +23918,7 @@
           (reference "#SUPPLY015") (unit 1)
         )
       )
-      (project "ESP32-DEVKIT-S-ch340"
+      (project "R"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#SUPPLY015") (unit 1)
         )
@@ -23949,7 +23948,7 @@
           (reference "#GND024") (unit 1)
         )
       )
-      (project "ESP32-DEVKIT-S-ch340"
+      (project "R"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#GND024") (unit 1)
         )
@@ -23980,7 +23979,7 @@
           (reference "R31") (unit 1)
         )
       )
-      (project "ESP32-DEVKIT-S-ch340"
+      (project "R"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "R31") (unit 1)
         )
@@ -24011,7 +24010,7 @@
           (reference "R12") (unit 1)
         )
       )
-      (project "ESP32-DEVKIT-S-ch340"
+      (project "R"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "R12") (unit 1)
         )
@@ -24041,7 +24040,7 @@
           (reference "#SUPPLY025") (unit 1)
         )
       )
-      (project "ESP32-DEVKIT-S-ch340"
+      (project "R"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#SUPPLY025") (unit 1)
         )
@@ -24071,7 +24070,7 @@
           (reference "#SUPPLY018") (unit 1)
         )
       )
-      (project "ESP32-DEVKIT-S-ch340"
+      (project "R"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#SUPPLY018") (unit 1)
         )
@@ -24101,7 +24100,7 @@
           (reference "#SUPPLY013") (unit 1)
         )
       )
-      (project "ESP32-DEVKIT-S-ch340"
+      (project "R"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#SUPPLY013") (unit 1)
         )
@@ -24136,7 +24135,7 @@
           (reference "Q2") (unit 1)
         )
       )
-      (project "ESP32-DEVKIT-S-ch340"
+      (project "R"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "Q2") (unit 1)
         )
@@ -24166,7 +24165,7 @@
           (reference "#GND017") (unit 1)
         )
       )
-      (project "ESP32-DEVKIT-S-ch340"
+      (project "R"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#GND017") (unit 1)
         )
@@ -24196,7 +24195,7 @@
           (reference "#GND01") (unit 1)
         )
       )
-      (project "ESP32-DEVKIT-S-ch340"
+      (project "R"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#GND01") (unit 1)
         )
@@ -24226,7 +24225,7 @@
           (reference "#SUPPLY028") (unit 1)
         )
       )
-      (project "ESP32-DEVKIT-S-ch340"
+      (project "R"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#SUPPLY028") (unit 1)
         )
@@ -24256,7 +24255,7 @@
           (reference "#GND031") (unit 1)
         )
       )
-      (project "ESP32-DEVKIT-S-ch340"
+      (project "R"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#GND031") (unit 1)
         )
@@ -24286,7 +24285,7 @@
           (reference "#SUPPLY010") (unit 1)
         )
       )
-      (project "ESP32-DEVKIT-S-ch340"
+      (project "R"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#SUPPLY010") (unit 1)
         )
@@ -24321,7 +24320,7 @@
           (reference "Q2") (unit 2)
         )
       )
-      (project "ESP32-DEVKIT-S-ch340"
+      (project "R"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "Q2") (unit 2)
         )
@@ -24351,7 +24350,7 @@
           (reference "#GND041") (unit 1)
         )
       )
-      (project "ESP32-DEVKIT-S-ch340"
+      (project "R"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#GND041") (unit 1)
         )
@@ -24382,7 +24381,7 @@
           (reference "R16") (unit 1)
         )
       )
-      (project "ESP32-DEVKIT-S-ch340"
+      (project "R"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "R16") (unit 1)
         )
@@ -24415,7 +24414,7 @@
           (reference "S1") (unit 1)
         )
       )
-      (project "ESP32-DEVKIT-S-ch340"
+      (project "R"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "S1") (unit 1)
         )
@@ -24445,7 +24444,7 @@
           (reference "#GND011") (unit 1)
         )
       )
-      (project "ESP32-DEVKIT-S-ch340"
+      (project "R"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#GND011") (unit 1)
         )
@@ -24475,7 +24474,7 @@
           (reference "#GND013") (unit 1)
         )
       )
-      (project "ESP32-DEVKIT-S-ch340"
+      (project "R"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#GND013") (unit 1)
         )
@@ -24505,7 +24504,7 @@
           (reference "#GND034") (unit 1)
         )
       )
-      (project "ESP32-DEVKIT-S-ch340"
+      (project "R"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#GND034") (unit 1)
         )
@@ -24536,7 +24535,7 @@
           (reference "C1") (unit 1)
         )
       )
-      (project "ESP32-DEVKIT-S-ch340"
+      (project "R"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "C1") (unit 1)
         )
@@ -24566,7 +24565,7 @@
           (reference "#SUPPLY04") (unit 1)
         )
       )
-      (project "ESP32-DEVKIT-S-ch340"
+      (project "R"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#SUPPLY04") (unit 1)
         )
@@ -24597,7 +24596,7 @@
           (reference "R4") (unit 1)
         )
       )
-      (project "ESP32-DEVKIT-S-ch340"
+      (project "R"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "R4") (unit 1)
         )
@@ -24627,7 +24626,7 @@
           (reference "#GND026") (unit 1)
         )
       )
-      (project "ESP32-DEVKIT-S-ch340"
+      (project "R"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#GND026") (unit 1)
         )
@@ -24657,7 +24656,7 @@
           (reference "#SUPPLY06") (unit 1)
         )
       )
-      (project "ESP32-DEVKIT-S-ch340"
+      (project "R"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#SUPPLY06") (unit 1)
         )
@@ -24688,7 +24687,7 @@
           (reference "R10") (unit 1)
         )
       )
-      (project "ESP32-DEVKIT-S-ch340"
+      (project "R"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "R10") (unit 1)
         )
@@ -24718,7 +24717,7 @@
           (reference "#GND018") (unit 1)
         )
       )
-      (project "ESP32-DEVKIT-S-ch340"
+      (project "R"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#GND018") (unit 1)
         )
@@ -24748,7 +24747,7 @@
           (reference "#GND027") (unit 1)
         )
       )
-      (project "ESP32-DEVKIT-S-ch340"
+      (project "R"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#GND027") (unit 1)
         )
@@ -24781,7 +24780,7 @@
           (reference "S2") (unit 1)
         )
       )
-      (project "ESP32-DEVKIT-S-ch340"
+      (project "R"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "S2") (unit 1)
         )
@@ -24811,11 +24810,15 @@
           (reference "#SUPPLY027") (unit 1)
         )
       )
-      (project "ESP32-DEVKIT-S-ch340"
+      (project "R"
         (path "/8468d4d7-80f5-46aa-80f8-c5bed0c248d5"
           (reference "#SUPPLY027") (unit 1)
         )
       )
     )
+  )
+
+  (sheet_instances
+    (path "/" (page "1"))
   )
 )
